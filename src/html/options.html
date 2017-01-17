@@ -1,0 +1,89 @@
+<!doctype html>
+<html>
+
+<head>
+  <meta charset="utf-8" />
+  <title>JIRA Link Expander configuration</title>
+  <style>
+    .div-table {
+      font-size: 1.5em;
+      display: table;
+      border-collapse: separate;
+      border-spacing: 2px 6px;
+    }
+    
+    .table-row {
+      display: table-row;
+    }
+    
+    .table-col {
+      padding-right: 20px;
+      display: table-cell;
+    }
+    
+    #btn-load {
+      font-size: 0.8em;
+      border-radius: 8px;
+    }
+    
+    #area-project-keys,
+    #div-load-msg {
+      margin-top: 5px;
+    }
+    
+    #chbx-load-prj-descr {
+      border-radius: 8px;
+      width: 15px;
+      height: 15px;
+    }
+    
+    .pointer {
+      cursor: pointer;
+    }
+    
+    .msg {
+      font: bold 15px monospace;
+    }
+    
+    .error {
+      color: red;
+    }
+    
+    .success {
+      color: green;
+    }
+
+  </style>
+</head>
+
+<body>
+  <div class="div-table">
+    <div class="table-row">
+      <div class="table-col">
+        URL
+      </div>
+      <div class="table-col">
+        <input id="input-jira-url" type="url" name="url" size="32">
+      </div>
+    </div>
+    <div class="table-row">
+      <div class="table-col">
+        <label for="chbx-load-prj-descr" class="pointer">Description</label>
+      </div>
+      <div class="table-col">
+        <input id="chbx-load-prj-descr" checked type="checkbox" />
+      </div>
+    </div>
+    <div class="table-row">
+      <div class="table-col">
+        <button id="btn-load" class="pointer">Load</button>
+      </div>
+    </div>
+  </div>
+  <textarea id="area-project-keys" placeholder="Enter project keys..." rows="10" cols="67"></textarea>
+  <div class="msg" id="div-load-msg"></div>
+  <script src="/js/utils.js"></script>
+  <script src="/js/options.js"></script>
+</body>
+
+</html>

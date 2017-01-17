@@ -1,0 +1,41 @@
+{
+  "description": "Fast way to open issue in JIRA",
+  "manifest_version": 2,
+  "name": "Jira Link Expander",
+  "version": "1.0.1",
+
+  "permissions": [
+    "contextMenus",
+    "activeTab",
+    "storage"
+  ],
+
+  "optional_permissions": [
+    "webRequest",
+    "http://*/",
+    "https://*/"
+  ],
+
+  "background": {
+    "scripts": [
+      "js/utils.js",
+      "js/jiraHint.js",
+      "js/background.js"
+    ]
+  },
+
+  "omnibox": { "keyword" : "ji" },
+
+  "icons": {
+    "16": "pic/jira-logo16x16.png",
+    "48": "pic/jira-logo48x48.png",
+    "128": "pic/jira-logo128x128.png"
+  },
+
+  "options_ui": {
+    "page": "html/options.html",
+    "chrome_style": true,
+    "open_in_tab": true
+  }
+
+}

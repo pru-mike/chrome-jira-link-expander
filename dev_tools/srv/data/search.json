@@ -1,0 +1,68 @@
+{
+   "issues" : [
+      {
+         "expand" : "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+         "id" : "127335",
+         "self" : "/rest/api/2/issue/127335",
+         "key" : "WORKFLOW-127335"
+      },
+      {
+         "id" : "127071",
+         "expand" : "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+         "self" : "/rest/api/2/issue/127071",
+         "key" : "WIKIALITY-127071"
+      },
+      {
+         "self" : "/rest/api/2/issue/126649",
+         "expand" : "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+         "id" : "126649",
+         "key" : "WEBSERVICES-126649"
+      },
+      {
+         "key" : "WEBLOG-126217",
+         "expand" : "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+         "id" : "126217",
+         "self" : "/rest/api/2/issue/126217"
+      },
+      {
+         "id" : "125974",
+         "expand" : "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+         "self" : "/rest/api/2/issue/125974",
+         "key" : "WEBINAR-125974"
+      },
+      {
+         "key" : "WEB-125704",
+         "id" : "125704",
+         "expand" : "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+         "self" : "/rest/api/2/issue/125704"
+      },
+      {
+         "id" : "125542",
+         "expand" : "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+         "self" : "/rest/api/2/issue/125542",
+         "key" : "VORTAL-125542"
+      },
+      {
+         "key" : "VLOGGING-125392",
+         "expand" : "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+         "id" : "125392",
+         "self" : "/rest/api/2/issue/125392"
+      },
+      {
+         "key" : "VIRTUALIZATION-125230",
+         "id" : "125230",
+         "expand" : "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+         "self" : "/rest/api/2/issue/125230"
+      },
+      {
+         "expand" : "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+         "id" : "125050",
+         "self" : "/rest/api/2/issue/125050",
+         "key" : "VIRAL-125050"
+      }
+   ],
+   "total" : 95,
+   "startAt" : 0,
+   "expand" : "schema,names",
+   "maxResults" : 10
+}

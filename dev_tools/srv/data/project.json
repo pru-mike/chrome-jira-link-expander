@@ -1,0 +1,1902 @@
+[
+   {
+      "projectCategory" : {
+         "self" : "http://localhost:9090/rest/api/2/projectCategory/100500",
+         "description" : "https://en.wikipedia.org/wiki/List_of_buzzwords",
+         "name" : "LIST OF BUZZWORDS",
+         "id" : "100500"
+      },
+      "expand" : "description,lead,url,projectKeys",
+      "id" : "100000",
+      "projectTypeKey" : "software",
+      "name" : "Aggregator[63]",
+      "avatarUrls" : {
+         "32x32" : "http://localhost:9090//secure/projectavatar?size=medium&pid=100000&avatarId=100000",
+         "16x16" : "http://localhost:9090//secure/projectavatar?size=xsmall&pid=100000&avatarId=100000",
+         "24x24" : "http://localhost:9090//secure/projectavatar?size=small&pid=100000&avatarId=100000",
+         "48x48" : "http://localhost:9090//secure/projectavatar?pid=100000&avatarId=100000"
+      },
+      "key" : "AGGREGATOR",
+      "self" : "http://localhost:9090/rest/api/2/project/100000"
+   },
+   {
+      "key" : "AGILE",
+      "self" : "http://localhost:9090/rest/api/2/project/100200",
+      "id" : "100200",
+      "projectTypeKey" : "software",
+      "expand" : "description,lead,url,projectKeys",
+      "projectCategory" : {
+         "id" : "100500",
+         "description" : "https://en.wikipedia.org/wiki/List_of_buzzwords",
+         "name" : "LIST OF BUZZWORDS",
+         "self" : "http://localhost:9090/rest/api/2/projectCategory/100500"
+      },
+      "name" : "Agile[64]",
+      "avatarUrls" : {
+         "48x48" : "http://localhost:9090//secure/projectavatar?pid=100200&avatarId=100200",
+         "24x24" : "http://localhost:9090//secure/projectavatar?size=small&pid=100200&avatarId=100200",
+         "16x16" : "http://localhost:9090//secure/projectavatar?size=xsmall&pid=100200&avatarId=100200",
+         "32x32" : "http://localhost:9090//secure/projectavatar?size=medium&pid=100200&avatarId=100200"
+      }
+   },
+   {
+      "key" : "AJAX",
+      "self" : "http://localhost:9090/rest/api/2/project/100383",
+      "projectCategory" : {
+         "description" : "https://en.wikipedia.org/wiki/List_of_buzzwords",
+         "name" : "LIST OF BUZZWORDS",
+         "self" : "http://localhost:9090/rest/api/2/projectCategory/100500",
+         "id" : "100500"
+      },
+      "expand" : "description,lead,url,projectKeys",
+      "projectTypeKey" : "software",
+      "id" : "100383",
+      "name" : "Ajax[8][58]",
+      "avatarUrls" : {
+         "16x16" : "http://localhost:9090//secure/projectavatar?size=xsmall&pid=100383&avatarId=100383",
+         "32x32" : "http://localhost:9090//secure/projectavatar?size=medium&pid=100383&avatarId=100383",
+         "24x24" : "http://localhost:9090//secure/projectavatar?size=small&pid=100383&avatarId=100383",
+         "48x48" : "http://localhost:9090//secure/projectavatar?pid=100383&avatarId=100383"
+      }
+   },
+   {
+      "key" : "ALGORITHM",
+      "self" : "http://localhost:9090/rest/api/2/project/100859",
+      "projectTypeKey" : "software",
+      "expand" : "description,lead,url,projectKeys",
+      "id" : "100859",
+      "projectCategory" : {
+         "description" : "https://en.wikipedia.org/wiki/List_of_buzzwords",
+         "name" : "LIST OF BUZZWORDS",
+         "self" : "http://localhost:9090/rest/api/2/projectCategory/100500",
+         "id" : "100500"
+      },
+      "name" : "Algorithm[65]",
+      "avatarUrls" : {
+         "48x48" : "http://localhost:9090//secure/projectavatar?pid=100859&avatarId=100859",
+         "24x24" : "http://localhost:9090//secure/projectavatar?size=small&pid=100859&avatarId=100859",
+         "16x16" : "http://localhost:9090//secure/projectavatar?size=xsmall&pid=100859&avatarId=100859",
+         "32x32" : "http://localhost:9090//secure/projectavatar?size=medium&pid=100859&avatarId=100859"
+      }
+   },
+   {
+      "expand" : "description,lead,url,projectKeys",
+      "id" : "101128",
+      "projectTypeKey" : "software",
+      "projectCategory" : {
+         "self" : "http://localhost:9090/rest/api/2/projectCategory/100500",
+         "description" : "https://en.wikipedia.org/wiki/List_of_buzzwords",
+         "name" : "LIST OF BUZZWORDS",
+         "id" : "100500"
+      },
+      "name" : "Benchmarking[66]",
+      "avatarUrls" : {
+         "16x16" : "http://localhost:9090//secure/projectavatar?size=xsmall&pid=101128&avatarId=101128",
+         "32x32" : "http://localhost:9090//secure/projectavatar?size=medium&pid=101128&avatarId=101128",
+         "24x24" : "http://localhost:9090//secure/projectavatar?size=small&pid=101128&avatarId=101128",
+         "48x48" : "http://localhost:9090//secure/projectavatar?pid=101128&avatarId=101128"
+      },
+      "key" : "BENCHMARKING",
+      "self" : "http://localhost:9090/rest/api/2/project/101128"
+   },
+   {
+      "avatarUrls" : {
+         "32x32" : "http://localhost:9090//secure/projectavatar?size=medium&pid=101386&avatarId=101386",
+         "16x16" : "http://localhost:9090//secure/projectavatar?size=xsmall&pid=101386&avatarId=101386",
+         "48x48" : "http://localhost:9090//secure/projectavatar?pid=101386&avatarId=101386",
+         "24x24" : "http://localhost:9090//secure/projectavatar?size=small&pid=101386&avatarId=101386"
+      },
+      "name" : "Back-end[31]",
+      "expand" : "description,lead,url,projectKeys",
+      "projectTypeKey" : "software",
+      "id" : "101386",
+      "projectCategory" : {
+         "id" : "100500",
+         "self" : "http://localhost:9090/rest/api/2/projectCategory/100500",
+         "name" : "LIST OF BUZZWORDS",
+         "description" : "https://en.wikipedia.org/wiki/List_of_buzzwords"
+      },
+      "self" : "http://localhost:9090/rest/api/2/project/101386",
+      "key" : "BACKEND"
+   },
+   {
+      "self" : "http://localhost:9090/rest/api/2/project/101639",
+      "key" : "BETA",
+      "avatarUrls" : {
+         "16x16" : "http://localhost:9090//secure/projectavatar?size=xsmall&pid=101639&avatarId=101639",
+         "32x32" : "http://localhost:9090//secure/projectavatar?size=medium&pid=101639&avatarId=101639",
+         "48x48" : "http://localhost:9090//secure/projectavatar?pid=101639&avatarId=101639",
+         "24x24" : "http://localhost:9090//secure/projectavatar?size=small&pid=101639&avatarId=101639"
+      },
+      "name" : "Beta[8]",
+      "projectTypeKey" : "software",
+      "id" : "101639",
+      "expand" : "description,lead,url,projectKeys",
+      "projectCategory" : {
+         "description" : "https://en.wikipedia.org/wiki/List_of_buzzwords",
+         "name" : "LIST OF BUZZWORDS",
+         "self" : "http://localhost:9090/rest/api/2/projectCategory/100500",
+         "id" : "100500"
+      }
+   },
+   {
+      "id" : "101831",
+      "expand" : "description,lead,url,projectKeys",
+      "projectTypeKey" : "software",
+      "projectCategory" : {
+         "description" : "https://en.wikipedia.org/wiki/List_of_buzzwords",
+         "name" : "LIST OF BUZZWORDS",
+         "self" : "http://localhost:9090/rest/api/2/projectCategory/100500",
+         "id" : "100500"
+      },
+      "avatarUrls" : {
+         "48x48" : "http://localhost:9090//secure/projectavatar?pid=101831&avatarId=101831",
+         "24x24" : "http://localhost:9090//secure/projectavatar?size=small&pid=101831&avatarId=101831",
+         "32x32" : "http://localhost:9090//secure/projectavatar?size=medium&pid=101831&avatarId=101831",
+         "16x16" : "http://localhost:9090//secure/projectavatar?size=xsmall&pid=101831&avatarId=101831"
+      },
+      "name" : "Big data - larger data sets than last month",
+      "self" : "http://localhost:9090/rest/api/2/project/101831",
+      "key" : "BIGDATA"
+   },
+   {
+      "self" : "http://localhost:9090/rest/api/2/project/102145",
+      "key" : "BLEEDINGEDGE",
+      "avatarUrls" : {
+         "24x24" : "http://localhost:9090//secure/projectavatar?size=small&pid=102145&avatarId=102145",
+         "48x48" : "http://localhost:9090//secure/projectavatar?pid=102145&avatarId=102145",
+         "16x16" : "http://localhost:9090//secure/projectavatar?size=xsmall&pid=102145&avatarId=102145",
+         "32x32" : "http://localhost:9090//secure/projectavatar?size=medium&pid=102145&avatarId=102145"
+      },
+      "name" : "Bleeding edge[31]",
+      "id" : "102145",
+      "projectTypeKey" : "software",
+      "expand" : "description,lead,url,projectKeys",
+      "projectCategory" : {
+         "description" : "https://en.wikipedia.org/wiki/List_of_buzzwords",
+         "name" : "LIST OF BUZZWORDS",
+         "self" : "http://localhost:9090/rest/api/2/projectCategory/100500",
+         "id" : "100500"
+      }
+   },
+   {
+      "projectCategory" : {
+         "self" : "http://localhost:9090/rest/api/2/projectCategory/100500",
+         "description" : "https://en.wikipedia.org/wiki/List_of_buzzwords",
+         "name" : "LIST OF BUZZWORDS",
+         "id" : "100500"
+      },
+      "expand" : "description,lead,url,projectKeys",
+      "id" : "102458",
+      "projectTypeKey" : "software",
+      "name" : "Blog[63] – plus various other words that incorporate \"blog\"",
+      "avatarUrls" : {
+         "48x48" : "http://localhost:9090//secure/projectavatar?pid=102458&avatarId=102458",
+         "24x24" : "http://localhost:9090//secure/projectavatar?size=small&pid=102458&avatarId=102458",
+         "16x16" : "http://localhost:9090//secure/projectavatar?size=xsmall&pid=102458&avatarId=102458",
+         "32x32" : "http://localhost:9090//secure/projectavatar?size=medium&pid=102458&avatarId=102458"
+      },
+      "key" : "BLOGPLUS",
+      "self" : "http://localhost:9090/rest/api/2/project/102458"
+   },
+   {
+      "self" : "http://localhost:9090/rest/api/2/project/102903",
+      "key" : "BRINGYOUR",
+      "avatarUrls" : {
+         "32x32" : "http://localhost:9090//secure/projectavatar?size=medium&pid=102903&avatarId=102903",
+         "16x16" : "http://localhost:9090//secure/projectavatar?size=xsmall&pid=102903&avatarId=102903",
+         "48x48" : "http://localhost:9090//secure/projectavatar?pid=102903&avatarId=102903",
+         "24x24" : "http://localhost:9090//secure/projectavatar?size=small&pid=102903&avatarId=102903"
+      },
+      "name" : "Bring your own Device - use of personal equipment (usually mobile) in a work environment",
+      "projectCategory" : {
+         "self" : "http://localhost:9090/rest/api/2/projectCategory/100500",
+         "name" : "LIST OF BUZZWORDS",
+         "description" : "https://en.wikipedia.org/wiki/List_of_buzzwords",
+         "id" : "100500"
+      },
+      "id" : "102903",
+      "expand" : "description,lead,url,projectKeys",
+      "projectTypeKey" : "software"
+   },
+   {
+      "key" : "BRICKSANDCLICKS",
+      "self" : "http://localhost:9090/rest/api/2/project/103387",
+      "expand" : "description,lead,url,projectKeys",
+      "id" : "103387",
+      "projectTypeKey" : "software",
+      "projectCategory" : {
+         "id" : "100500",
+         "name" : "LIST OF BUZZWORDS",
+         "description" : "https://en.wikipedia.org/wiki/List_of_buzzwords",
+         "self" : "http://localhost:9090/rest/api/2/projectCategory/100500"
+      },
+      "name" : "Bricks-and-clicks[31][31]",
+      "avatarUrls" : {
+         "32x32" : "http://localhost:9090//secure/projectavatar?size=medium&pid=103387&avatarId=103387",
+         "16x16" : "http://localhost:9090//secure/projectavatar?size=xsmall&pid=103387&avatarId=103387",
+         "48x48" : "http://localhost:9090//secure/projectavatar?pid=103387&avatarId=103387",
+         "24x24" : "http://localhost:9090//secure/projectavatar?size=small&pid=103387&avatarId=103387"
+      }
+   },
+   {
+      "avatarUrls" : {
+         "48x48" : "http://localhost:9090//secure/projectavatar?pid=103613&avatarId=103613",
+         "24x24" : "http://localhost:9090//secure/projectavatar?size=small&pid=103613&avatarId=103613",
+         "16x16" : "http://localhost:9090//secure/projectavatar?size=xsmall&pid=103613&avatarId=103613",
+         "32x32" : "http://localhost:9090//secure/projectavatar?size=medium&pid=103613&avatarId=103613"
+      },
+      "name" : "Clickthrough[31]",
+      "projectCategory" : {
+         "id" : "100500",
+         "description" : "https://en.wikipedia.org/wiki/List_of_buzzwords",
+         "name" : "LIST OF BUZZWORDS",
+         "self" : "http://localhost:9090/rest/api/2/projectCategory/100500"
+      },
+      "expand" : "description,lead,url,projectKeys",
+      "projectTypeKey" : "software",
+      "id" : "103613",
+      "self" : "http://localhost:9090/rest/api/2/project/103613",
+      "key" : "CLICKTHROUGH"
+   },
+   {
+      "avatarUrls" : {
+         "32x32" : "http://localhost:9090//secure/projectavatar?size=medium&pid=104007&avatarId=104007",
+         "16x16" : "http://localhost:9090//secure/projectavatar?size=xsmall&pid=104007&avatarId=104007",
+         "24x24" : "http://localhost:9090//secure/projectavatar?size=small&pid=104007&avatarId=104007",
+         "48x48" : "http://localhost:9090//secure/projectavatar?pid=104007&avatarId=104007"
+      },
+      "name" : "Cloud[67]",
+      "id" : "104007",
+      "expand" : "description,lead,url,projectKeys",
+      "projectTypeKey" : "software",
+      "projectCategory" : {
+         "id" : "100500",
+         "self" : "http://localhost:9090/rest/api/2/projectCategory/100500",
+         "name" : "LIST OF BUZZWORDS",
+         "description" : "https://en.wikipedia.org/wiki/List_of_buzzwords"
+      },
+      "self" : "http://localhost:9090/rest/api/2/project/104007",
+      "key" : "CLOUD"
+   },
+   {
+      "projectCategory" : {
+         "self" : "http://localhost:9090/rest/api/2/projectCategory/100500",
+         "name" : "LIST OF BUZZWORDS",
+         "description" : "https://en.wikipedia.org/wiki/List_of_buzzwords",
+         "id" : "100500"
+      },
+      "expand" : "description,lead,url,projectKeys",
+      "id" : "104368",
+      "projectTypeKey" : "software",
+      "avatarUrls" : {
+         "24x24" : "http://localhost:9090//secure/projectavatar?size=small&pid=104368&avatarId=104368",
+         "48x48" : "http://localhost:9090//secure/projectavatar?pid=104368&avatarId=104368",
+         "32x32" : "http://localhost:9090//secure/projectavatar?size=medium&pid=104368&avatarId=104368",
+         "16x16" : "http://localhost:9090//secure/projectavatar?size=xsmall&pid=104368&avatarId=104368"
+      },
+      "name" : "CloudOps",
+      "self" : "http://localhost:9090/rest/api/2/project/104368",
+      "key" : "CLOUDOPS"
+   },
+   {
+      "key" : "COLLABORATION",
+      "self" : "http://localhost:9090/rest/api/2/project/104488",
+      "id" : "104488",
+      "expand" : "description,lead,url,projectKeys",
+      "projectTypeKey" : "software",
+      "projectCategory" : {
+         "name" : "LIST OF BUZZWORDS",
+         "description" : "https://en.wikipedia.org/wiki/List_of_buzzwords",
+         "self" : "http://localhost:9090/rest/api/2/projectCategory/100500",
+         "id" : "100500"
+      },
+      "name" : "Collaboration[68]",
+      "avatarUrls" : {
+         "32x32" : "http://localhost:9090//secure/projectavatar?size=medium&pid=104488&avatarId=104488",
+         "16x16" : "http://localhost:9090//secure/projectavatar?size=xsmall&pid=104488&avatarId=104488",
+         "48x48" : "http://localhost:9090//secure/projectavatar?pid=104488&avatarId=104488",
+         "24x24" : "http://localhost:9090//secure/projectavatar?size=small&pid=104488&avatarId=104488"
+      }
+   },
+   {
+      "avatarUrls" : {
+         "16x16" : "http://localhost:9090//secure/projectavatar?size=xsmall&pid=104769&avatarId=104769",
+         "32x32" : "http://localhost:9090//secure/projectavatar?size=medium&pid=104769&avatarId=104769",
+         "48x48" : "http://localhost:9090//secure/projectavatar?pid=104769&avatarId=104769",
+         "24x24" : "http://localhost:9090//secure/projectavatar?size=small&pid=104769&avatarId=104769"
+      },
+      "name" : "Content management[68]",
+      "id" : "104769",
+      "expand" : "description,lead,url,projectKeys",
+      "projectTypeKey" : "software",
+      "projectCategory" : {
+         "id" : "100500",
+         "self" : "http://localhost:9090/rest/api/2/projectCategory/100500",
+         "name" : "LIST OF BUZZWORDS",
+         "description" : "https://en.wikipedia.org/wiki/List_of_buzzwords"
+      },
+      "self" : "http://localhost:9090/rest/api/2/project/104769",
+      "key" : "CONTENTMANAGEMENT"
+   },
+   {
+      "key" : "CONTENTMANAGEMENT",
+      "self" : "http://localhost:9090/rest/api/2/project/105191",
+      "name" : "Content Management System[63] – also known as CMS.",
+      "avatarUrls" : {
+         "24x24" : "http://localhost:9090//secure/projectavatar?size=small&pid=105191&avatarId=105191",
+         "48x48" : "http://localhost:9090//secure/projectavatar?pid=105191&avatarId=105191",
+         "32x32" : "http://localhost:9090//secure/projectavatar?size=medium&pid=105191&avatarId=105191",
+         "16x16" : "http://localhost:9090//secure/projectavatar?size=xsmall&pid=105191&avatarId=105191"
+      },
+      "projectCategory" : {
+         "id" : "100500",
+         "self" : "http://localhost:9090/rest/api/2/projectCategory/100500",
+         "name" : "LIST OF BUZZWORDS",
+         "description" : "https://en.wikipedia.org/wiki/List_of_buzzwords"
+      },
+      "expand" : "description,lead,url,projectKeys",
+      "projectTypeKey" : "software",
+      "id" : "105191"
+   },
+   {
+      "key" : "CONVERGENCE",
+      "self" : "http://localhost:9090/rest/api/2/project/105553",
+      "projectCategory" : {
+         "description" : "https://en.wikipedia.org/wiki/List_of_buzzwords",
+         "name" : "LIST OF BUZZWORDS",
+         "self" : "http://localhost:9090/rest/api/2/projectCategory/100500",
+         "id" : "100500"
+      },
+      "expand" : "description,lead,url,projectKeys",
+      "id" : "105553",
+      "projectTypeKey" : "software",
+      "name" : "Convergence[69]",
+      "avatarUrls" : {
+         "16x16" : "http://localhost:9090//secure/projectavatar?size=xsmall&pid=105553&avatarId=105553",
+         "32x32" : "http://localhost:9090//secure/projectavatar?size=medium&pid=105553&avatarId=105553",
+         "48x48" : "http://localhost:9090//secure/projectavatar?pid=105553&avatarId=105553",
+         "24x24" : "http://localhost:9090//secure/projectavatar?size=small&pid=105553&avatarId=105553"
+      }
+   },
+   {
+      "name" : "Cross-platform[31]",
+      "avatarUrls" : {
+         "24x24" : "http://localhost:9090//secure/projectavatar?size=small&pid=105977&avatarId=105977",
+         "48x48" : "http://localhost:9090//secure/projectavatar?pid=105977&avatarId=105977",
+         "16x16" : "http://localhost:9090//secure/projectavatar?size=xsmall&pid=105977&avatarId=105977",
+         "32x32" : "http://localhost:9090//secure/projectavatar?size=medium&pid=105977&avatarId=105977"
+      },
+      "projectCategory" : {
+         "name" : "LIST OF BUZZWORDS",
+         "description" : "https://en.wikipedia.org/wiki/List_of_buzzwords",
+         "self" : "http://localhost:9090/rest/api/2/projectCategory/100500",
+         "id" : "100500"
+      },
+      "expand" : "description,lead,url,projectKeys",
+      "id" : "105977",
+      "projectTypeKey" : "software",
+      "key" : "CROSSPLATFORM",
+      "self" : "http://localhost:9090/rest/api/2/project/105977"
+   },
+   {
+      "self" : "http://localhost:9090/rest/api/2/project/106408",
+      "key" : "CYBERPHYSICALSYSTEMS",
+      "id" : "106408",
+      "projectTypeKey" : "software",
+      "expand" : "description,lead,url,projectKeys",
+      "projectCategory" : {
+         "self" : "http://localhost:9090/rest/api/2/projectCategory/100500",
+         "name" : "LIST OF BUZZWORDS",
+         "description" : "https://en.wikipedia.org/wiki/List_of_buzzwords",
+         "id" : "100500"
+      },
+      "avatarUrls" : {
+         "48x48" : "http://localhost:9090//secure/projectavatar?pid=106408&avatarId=106408",
+         "24x24" : "http://localhost:9090//secure/projectavatar?size=small&pid=106408&avatarId=106408",
+         "16x16" : "http://localhost:9090//secure/projectavatar?size=xsmall&pid=106408&avatarId=106408",
+         "32x32" : "http://localhost:9090//secure/projectavatar?size=medium&pid=106408&avatarId=106408"
+      },
+      "name" : "Cyber-physical Systems (CSP)"
+   },
+   {
+      "key" : "DATAFICATION",
+      "self" : "http://localhost:9090/rest/api/2/project/106539",
+      "name" : "Datafication[70]",
+      "avatarUrls" : {
+         "48x48" : "http://localhost:9090//secure/projectavatar?pid=106539&avatarId=106539",
+         "24x24" : "http://localhost:9090//secure/projectavatar?size=small&pid=106539&avatarId=106539",
+         "16x16" : "http://localhost:9090//secure/projectavatar?size=xsmall&pid=106539&avatarId=106539",
+         "32x32" : "http://localhost:9090//secure/projectavatar?size=medium&pid=106539&avatarId=106539"
+      },
+      "id" : "106539",
+      "projectTypeKey" : "software",
+      "expand" : "description,lead,url,projectKeys",
+      "projectCategory" : {
+         "id" : "100500",
+         "self" : "http://localhost:9090/rest/api/2/projectCategory/100500",
+         "description" : "https://en.wikipedia.org/wiki/List_of_buzzwords",
+         "name" : "LIST OF BUZZWORDS"
+      }
+   },
+   {
+      "avatarUrls" : {
+         "16x16" : "http://localhost:9090//secure/projectavatar?size=xsmall&pid=106720&avatarId=106720",
+         "32x32" : "http://localhost:9090//secure/projectavatar?size=medium&pid=106720&avatarId=106720",
+         "48x48" : "http://localhost:9090//secure/projectavatar?pid=106720&avatarId=106720",
+         "24x24" : "http://localhost:9090//secure/projectavatar?size=small&pid=106720&avatarId=106720"
+      },
+      "name" : "Data mining[71] - any kind of data collection or analysis, even simple statistics such as taking averages on large data sets",
+      "projectCategory" : {
+         "id" : "100500",
+         "description" : "https://en.wikipedia.org/wiki/List_of_buzzwords",
+         "name" : "LIST OF BUZZWORDS",
+         "self" : "http://localhost:9090/rest/api/2/projectCategory/100500"
+      },
+      "id" : "106720",
+      "expand" : "description,lead,url,projectKeys",
+      "projectTypeKey" : "software",
+      "self" : "http://localhost:9090/rest/api/2/project/106720",
+      "key" : "DATAMINING"
+   },
+   {
+      "projectCategory" : {
+         "id" : "100500",
+         "description" : "https://en.wikipedia.org/wiki/List_of_buzzwords",
+         "name" : "LIST OF BUZZWORDS",
+         "self" : "http://localhost:9090/rest/api/2/projectCategory/100500"
+      },
+      "expand" : "description,lead,url,projectKeys",
+      "projectTypeKey" : "software",
+      "id" : "107092",
+      "name" : "Data science[72]",
+      "avatarUrls" : {
+         "24x24" : "http://localhost:9090//secure/projectavatar?size=small&pid=107092&avatarId=107092",
+         "48x48" : "http://localhost:9090//secure/projectavatar?pid=107092&avatarId=107092",
+         "16x16" : "http://localhost:9090//secure/projectavatar?size=xsmall&pid=107092&avatarId=107092",
+         "32x32" : "http://localhost:9090//secure/projectavatar?size=medium&pid=107092&avatarId=107092"
+      },
+      "key" : "DATASCIENCE",
+      "self" : "http://localhost:9090/rest/api/2/project/107092"
+   },
+   {
+      "key" : "DEEPDIVE",
+      "self" : "http://localhost:9090/rest/api/2/project/107452",
+      "name" : "Deep dive[17]",
+      "avatarUrls" : {
+         "24x24" : "http://localhost:9090//secure/projectavatar?size=small&pid=107452&avatarId=107452",
+         "48x48" : "http://localhost:9090//secure/projectavatar?pid=107452&avatarId=107452",
+         "16x16" : "http://localhost:9090//secure/projectavatar?size=xsmall&pid=107452&avatarId=107452",
+         "32x32" : "http://localhost:9090//secure/projectavatar?size=medium&pid=107452&avatarId=107452"
+      },
+      "projectCategory" : {
+         "description" : "https://en.wikipedia.org/wiki/List_of_buzzwords",
+         "name" : "LIST OF BUZZWORDS",
+         "self" : "http://localhost:9090/rest/api/2/projectCategory/100500",
+         "id" : "100500"
+      },
+      "projectTypeKey" : "software",
+      "expand" : "description,lead,url,projectKeys",
+      "id" : "107452"
+   },
+   {
+      "key" : "DEEPWEB",
+      "self" : "http://localhost:9090/rest/api/2/project/107942",
+      "name" : "Deep web[73] - used interchageably with \"Dark web\" even though they're not the same",
+      "avatarUrls" : {
+         "48x48" : "http://localhost:9090//secure/projectavatar?pid=107942&avatarId=107942",
+         "24x24" : "http://localhost:9090//secure/projectavatar?size=small&pid=107942&avatarId=107942",
+         "32x32" : "http://localhost:9090//secure/projectavatar?size=medium&pid=107942&avatarId=107942",
+         "16x16" : "http://localhost:9090//secure/projectavatar?size=xsmall&pid=107942&avatarId=107942"
+      },
+      "expand" : "description,lead,url,projectKeys",
+      "id" : "107942",
+      "projectTypeKey" : "software",
+      "projectCategory" : {
+         "id" : "100500",
+         "name" : "LIST OF BUZZWORDS",
+         "description" : "https://en.wikipedia.org/wiki/List_of_buzzwords",
+         "self" : "http://localhost:9090/rest/api/2/projectCategory/100500"
+      }
+   },
+   {
+      "expand" : "description,lead,url,projectKeys",
+      "projectTypeKey" : "software",
+      "id" : "108076",
+      "projectCategory" : {
+         "name" : "LIST OF BUZZWORDS",
+         "description" : "https://en.wikipedia.org/wiki/List_of_buzzwords",
+         "self" : "http://localhost:9090/rest/api/2/projectCategory/100500",
+         "id" : "100500"
+      },
+      "name" : "Design pattern[74]",
+      "avatarUrls" : {
+         "48x48" : "http://localhost:9090//secure/projectavatar?pid=108076&avatarId=108076",
+         "24x24" : "http://localhost:9090//secure/projectavatar?size=small&pid=108076&avatarId=108076",
+         "32x32" : "http://localhost:9090//secure/projectavatar?size=medium&pid=108076&avatarId=108076",
+         "16x16" : "http://localhost:9090//secure/projectavatar?size=xsmall&pid=108076&avatarId=108076"
+      },
+      "key" : "DESIGNPATTERN",
+      "self" : "http://localhost:9090/rest/api/2/project/108076"
+   },
+   {
+      "projectCategory" : {
+         "id" : "100500",
+         "name" : "LIST OF BUZZWORDS",
+         "description" : "https://en.wikipedia.org/wiki/List_of_buzzwords",
+         "self" : "http://localhost:9090/rest/api/2/projectCategory/100500"
+      },
+      "id" : "108257",
+      "projectTypeKey" : "software",
+      "expand" : "description,lead,url,projectKeys",
+      "avatarUrls" : {
+         "24x24" : "http://localhost:9090//secure/projectavatar?size=small&pid=108257&avatarId=108257",
+         "48x48" : "http://localhost:9090//secure/projectavatar?pid=108257&avatarId=108257",
+         "16x16" : "http://localhost:9090//secure/projectavatar?size=xsmall&pid=108257&avatarId=108257",
+         "32x32" : "http://localhost:9090//secure/projectavatar?size=medium&pid=108257&avatarId=108257"
+      },
+      "name" : "DevOps[75]",
+      "self" : "http://localhost:9090/rest/api/2/project/108257",
+      "key" : "DEVOPS"
+   },
+   {
+      "projectCategory" : {
+         "id" : "100500",
+         "name" : "LIST OF BUZZWORDS",
+         "description" : "https://en.wikipedia.org/wiki/List_of_buzzwords",
+         "self" : "http://localhost:9090/rest/api/2/projectCategory/100500"
+      },
+      "id" : "108449",
+      "expand" : "description,lead,url,projectKeys",
+      "projectTypeKey" : "software",
+      "avatarUrls" : {
+         "48x48" : "http://localhost:9090//secure/projectavatar?pid=108449&avatarId=108449",
+         "24x24" : "http://localhost:9090//secure/projectavatar?size=small&pid=108449&avatarId=108449",
+         "32x32" : "http://localhost:9090//secure/projectavatar?size=medium&pid=108449&avatarId=108449",
+         "16x16" : "http://localhost:9090//secure/projectavatar?size=xsmall&pid=108449&avatarId=108449"
+      },
+      "name" : "Digital divide[63]",
+      "self" : "http://localhost:9090/rest/api/2/project/108449",
+      "key" : "DIGITALDIVIDE"
+   },
+   {
+      "self" : "http://localhost:9090/rest/api/2/project/108554",
+      "key" : "DIGITALREMASTERING",
+      "projectTypeKey" : "software",
+      "expand" : "description,lead,url,projectKeys",
+      "id" : "108554",
+      "projectCategory" : {
+         "id" : "100500",
+         "self" : "http://localhost:9090/rest/api/2/projectCategory/100500",
+         "description" : "https://en.wikipedia.org/wiki/List_of_buzzwords",
+         "name" : "LIST OF BUZZWORDS"
+      },
+      "avatarUrls" : {
+         "32x32" : "http://localhost:9090//secure/projectavatar?size=medium&pid=108554&avatarId=108554",
+         "16x16" : "http://localhost:9090//secure/projectavatar?size=xsmall&pid=108554&avatarId=108554",
+         "24x24" : "http://localhost:9090//secure/projectavatar?size=small&pid=108554&avatarId=108554",
+         "48x48" : "http://localhost:9090//secure/projectavatar?pid=108554&avatarId=108554"
+      },
+      "name" : "Digital Remastering[76]"
+   },
+   {
+      "key" : "DIGITALRIGHTS",
+      "self" : "http://localhost:9090/rest/api/2/project/108716",
+      "name" : "Digital Rights Management[8] – also known as DRM.",
+      "avatarUrls" : {
+         "32x32" : "http://localhost:9090//secure/projectavatar?size=medium&pid=108716&avatarId=108716",
+         "16x16" : "http://localhost:9090//secure/projectavatar?size=xsmall&pid=108716&avatarId=108716",
+         "48x48" : "http://localhost:9090//secure/projectavatar?pid=108716&avatarId=108716",
+         "24x24" : "http://localhost:9090//secure/projectavatar?size=small&pid=108716&avatarId=108716"
+      },
+      "projectTypeKey" : "software",
+      "expand" : "description,lead,url,projectKeys",
+      "id" : "108716",
+      "projectCategory" : {
+         "self" : "http://localhost:9090/rest/api/2/projectCategory/100500",
+         "name" : "LIST OF BUZZWORDS",
+         "description" : "https://en.wikipedia.org/wiki/List_of_buzzwords",
+         "id" : "100500"
+      }
+   },
+   {
+      "name" : "Digital signage[77]",
+      "avatarUrls" : {
+         "48x48" : "http://localhost:9090//secure/projectavatar?pid=108821&avatarId=108821",
+         "24x24" : "http://localhost:9090//secure/projectavatar?size=small&pid=108821&avatarId=108821",
+         "16x16" : "http://localhost:9090//secure/projectavatar?size=xsmall&pid=108821&avatarId=108821",
+         "32x32" : "http://localhost:9090//secure/projectavatar?size=medium&pid=108821&avatarId=108821"
+      },
+      "projectTypeKey" : "software",
+      "expand" : "description,lead,url,projectKeys",
+      "id" : "108821",
+      "projectCategory" : {
+         "self" : "http://localhost:9090/rest/api/2/projectCategory/100500",
+         "name" : "LIST OF BUZZWORDS",
+         "description" : "https://en.wikipedia.org/wiki/List_of_buzzwords",
+         "id" : "100500"
+      },
+      "key" : "DIGITALSIGNAGE",
+      "self" : "http://localhost:9090/rest/api/2/project/108821"
+   },
+   {
+      "avatarUrls" : {
+         "24x24" : "http://localhost:9090//secure/projectavatar?size=small&pid=109202&avatarId=109202",
+         "48x48" : "http://localhost:9090//secure/projectavatar?pid=109202&avatarId=109202",
+         "32x32" : "http://localhost:9090//secure/projectavatar?size=medium&pid=109202&avatarId=109202",
+         "16x16" : "http://localhost:9090//secure/projectavatar?size=xsmall&pid=109202&avatarId=109202"
+      },
+      "name" : "Disruptive Technologies[78]",
+      "projectCategory" : {
+         "id" : "100500",
+         "self" : "http://localhost:9090/rest/api/2/projectCategory/100500",
+         "description" : "https://en.wikipedia.org/wiki/List_of_buzzwords",
+         "name" : "LIST OF BUZZWORDS"
+      },
+      "expand" : "description,lead,url,projectKeys",
+      "id" : "109202",
+      "projectTypeKey" : "software",
+      "self" : "http://localhost:9090/rest/api/2/project/109202",
+      "key" : "DISRUPTIVETECHNOLOGIES"
+   },
+   {
+      "self" : "http://localhost:9090/rest/api/2/project/109337",
+      "key" : "DOCUMENTMANAGEMENT",
+      "avatarUrls" : {
+         "16x16" : "http://localhost:9090//secure/projectavatar?size=xsmall&pid=109337&avatarId=109337",
+         "32x32" : "http://localhost:9090//secure/projectavatar?size=medium&pid=109337&avatarId=109337",
+         "24x24" : "http://localhost:9090//secure/projectavatar?size=small&pid=109337&avatarId=109337",
+         "48x48" : "http://localhost:9090//secure/projectavatar?pid=109337&avatarId=109337"
+      },
+      "name" : "Document management[68]",
+      "projectTypeKey" : "software",
+      "expand" : "description,lead,url,projectKeys",
+      "id" : "109337",
+      "projectCategory" : {
+         "description" : "https://en.wikipedia.org/wiki/List_of_buzzwords",
+         "name" : "LIST OF BUZZWORDS",
+         "self" : "http://localhost:9090/rest/api/2/projectCategory/100500",
+         "id" : "100500"
+      }
+   },
+   {
+      "self" : "http://localhost:9090/rest/api/2/project/109665",
+      "key" : "DOTBOMB",
+      "projectCategory" : {
+         "id" : "100500",
+         "name" : "LIST OF BUZZWORDS",
+         "description" : "https://en.wikipedia.org/wiki/List_of_buzzwords",
+         "self" : "http://localhost:9090/rest/api/2/projectCategory/100500"
+      },
+      "projectTypeKey" : "software",
+      "expand" : "description,lead,url,projectKeys",
+      "id" : "109665",
+      "avatarUrls" : {
+         "48x48" : "http://localhost:9090//secure/projectavatar?pid=109665&avatarId=109665",
+         "24x24" : "http://localhost:9090//secure/projectavatar?size=small&pid=109665&avatarId=109665",
+         "32x32" : "http://localhost:9090//secure/projectavatar?size=medium&pid=109665&avatarId=109665",
+         "16x16" : "http://localhost:9090//secure/projectavatar?size=xsmall&pid=109665&avatarId=109665"
+      },
+      "name" : "Dot-bomb[15][31]"
+   },
+   {
+      "name" : "E-learning[80]",
+      "avatarUrls" : {
+         "24x24" : "http://localhost:9090//secure/projectavatar?size=small&pid=110147&avatarId=110147",
+         "48x48" : "http://localhost:9090//secure/projectavatar?pid=110147&avatarId=110147",
+         "32x32" : "http://localhost:9090//secure/projectavatar?size=medium&pid=110147&avatarId=110147",
+         "16x16" : "http://localhost:9090//secure/projectavatar?size=xsmall&pid=110147&avatarId=110147"
+      },
+      "projectCategory" : {
+         "description" : "https://en.wikipedia.org/wiki/List_of_buzzwords",
+         "name" : "LIST OF BUZZWORDS",
+         "self" : "http://localhost:9090/rest/api/2/projectCategory/100500",
+         "id" : "100500"
+      },
+      "expand" : "description,lead,url,projectKeys",
+      "id" : "110147",
+      "projectTypeKey" : "software",
+      "key" : "ELEARNING",
+      "self" : "http://localhost:9090/rest/api/2/project/110147"
+   },
+   {
+      "key" : "ENDTOEND",
+      "self" : "http://localhost:9090/rest/api/2/project/110361",
+      "name" : "End-to-End",
+      "avatarUrls" : {
+         "16x16" : "http://localhost:9090//secure/projectavatar?size=xsmall&pid=110361&avatarId=110361",
+         "32x32" : "http://localhost:9090//secure/projectavatar?size=medium&pid=110361&avatarId=110361",
+         "48x48" : "http://localhost:9090//secure/projectavatar?pid=110361&avatarId=110361",
+         "24x24" : "http://localhost:9090//secure/projectavatar?size=small&pid=110361&avatarId=110361"
+      },
+      "projectTypeKey" : "software",
+      "expand" : "description,lead,url,projectKeys",
+      "id" : "110361",
+      "projectCategory" : {
+         "id" : "100500",
+         "name" : "LIST OF BUZZWORDS",
+         "description" : "https://en.wikipedia.org/wiki/List_of_buzzwords",
+         "self" : "http://localhost:9090/rest/api/2/projectCategory/100500"
+      }
+   },
+   {
+      "projectTypeKey" : "software",
+      "id" : "110518",
+      "expand" : "description,lead,url,projectKeys",
+      "projectCategory" : {
+         "id" : "100500",
+         "self" : "http://localhost:9090/rest/api/2/projectCategory/100500",
+         "description" : "https://en.wikipedia.org/wiki/List_of_buzzwords",
+         "name" : "LIST OF BUZZWORDS"
+      },
+      "avatarUrls" : {
+         "16x16" : "http://localhost:9090//secure/projectavatar?size=xsmall&pid=110518&avatarId=110518",
+         "32x32" : "http://localhost:9090//secure/projectavatar?size=medium&pid=110518&avatarId=110518",
+         "24x24" : "http://localhost:9090//secure/projectavatar?size=small&pid=110518&avatarId=110518",
+         "48x48" : "http://localhost:9090//secure/projectavatar?pid=110518&avatarId=110518"
+      },
+      "name" : "Engine[81]",
+      "self" : "http://localhost:9090/rest/api/2/project/110518",
+      "key" : "ENGINE"
+   },
+   {
+      "id" : "110948",
+      "expand" : "description,lead,url,projectKeys",
+      "projectTypeKey" : "software",
+      "projectCategory" : {
+         "description" : "https://en.wikipedia.org/wiki/List_of_buzzwords",
+         "name" : "LIST OF BUZZWORDS",
+         "self" : "http://localhost:9090/rest/api/2/projectCategory/100500",
+         "id" : "100500"
+      },
+      "avatarUrls" : {
+         "16x16" : "http://localhost:9090//secure/projectavatar?size=xsmall&pid=110948&avatarId=110948",
+         "32x32" : "http://localhost:9090//secure/projectavatar?size=medium&pid=110948&avatarId=110948",
+         "24x24" : "http://localhost:9090//secure/projectavatar?size=small&pid=110948&avatarId=110948",
+         "48x48" : "http://localhost:9090//secure/projectavatar?pid=110948&avatarId=110948"
+      },
+      "name" : "Enterprise Content Management[63] – also known as ECM.",
+      "self" : "http://localhost:9090/rest/api/2/project/110948",
+      "key" : "ENTERPRISECONTENT"
+   },
+   {
+      "name" : "Enterprise Service Bus[82] – also known as ESB.",
+      "avatarUrls" : {
+         "16x16" : "http://localhost:9090//secure/projectavatar?size=xsmall&pid=111390&avatarId=111390",
+         "32x32" : "http://localhost:9090//secure/projectavatar?size=medium&pid=111390&avatarId=111390",
+         "48x48" : "http://localhost:9090//secure/projectavatar?pid=111390&avatarId=111390",
+         "24x24" : "http://localhost:9090//secure/projectavatar?size=small&pid=111390&avatarId=111390"
+      },
+      "expand" : "description,lead,url,projectKeys",
+      "projectTypeKey" : "software",
+      "id" : "111390",
+      "projectCategory" : {
+         "id" : "100500",
+         "self" : "http://localhost:9090/rest/api/2/projectCategory/100500",
+         "name" : "LIST OF BUZZWORDS",
+         "description" : "https://en.wikipedia.org/wiki/List_of_buzzwords"
+      },
+      "key" : "ENTERPRISESERVICE",
+      "self" : "http://localhost:9090/rest/api/2/project/111390"
+   },
+   {
+      "name" : "Evolution - Often use ambiguously in political or sociological arguments in reference to theories of social Darwinism. (e.x. \"Society has evolved.\")",
+      "avatarUrls" : {
+         "16x16" : "http://localhost:9090//secure/projectavatar?size=xsmall&pid=111630&avatarId=111630",
+         "32x32" : "http://localhost:9090//secure/projectavatar?size=medium&pid=111630&avatarId=111630",
+         "48x48" : "http://localhost:9090//secure/projectavatar?pid=111630&avatarId=111630",
+         "24x24" : "http://localhost:9090//secure/projectavatar?size=small&pid=111630&avatarId=111630"
+      },
+      "projectCategory" : {
+         "id" : "100500",
+         "description" : "https://en.wikipedia.org/wiki/List_of_buzzwords",
+         "name" : "LIST OF BUZZWORDS",
+         "self" : "http://localhost:9090/rest/api/2/projectCategory/100500"
+      },
+      "expand" : "description,lead,url,projectKeys",
+      "id" : "111630",
+      "projectTypeKey" : "software",
+      "key" : "EVOLUTIONOFTEN",
+      "self" : "http://localhost:9090/rest/api/2/project/111630"
+   },
+   {
+      "projectCategory" : {
+         "id" : "100500",
+         "name" : "LIST OF BUZZWORDS",
+         "description" : "https://en.wikipedia.org/wiki/List_of_buzzwords",
+         "self" : "http://localhost:9090/rest/api/2/projectCategory/100500"
+      },
+      "projectTypeKey" : "software",
+      "expand" : "description,lead,url,projectKeys",
+      "id" : "111831",
+      "avatarUrls" : {
+         "24x24" : "http://localhost:9090//secure/projectavatar?size=small&pid=111831&avatarId=111831",
+         "48x48" : "http://localhost:9090//secure/projectavatar?pid=111831&avatarId=111831",
+         "32x32" : "http://localhost:9090//secure/projectavatar?size=medium&pid=111831&avatarId=111831",
+         "16x16" : "http://localhost:9090//secure/projectavatar?size=xsmall&pid=111831&avatarId=111831"
+      },
+      "name" : "Framework[8]",
+      "self" : "http://localhost:9090/rest/api/2/project/111831",
+      "key" : "FRAMEWORK"
+   },
+   {
+      "avatarUrls" : {
+         "16x16" : "http://localhost:9090//secure/projectavatar?size=xsmall&pid=112045&avatarId=112045",
+         "32x32" : "http://localhost:9090//secure/projectavatar?size=medium&pid=112045&avatarId=112045",
+         "48x48" : "http://localhost:9090//secure/projectavatar?pid=112045&avatarId=112045",
+         "24x24" : "http://localhost:9090//secure/projectavatar?size=small&pid=112045&avatarId=112045"
+      },
+      "name" : "Folksonomy[63]",
+      "projectTypeKey" : "software",
+      "expand" : "description,lead,url,projectKeys",
+      "id" : "112045",
+      "projectCategory" : {
+         "id" : "100500",
+         "self" : "http://localhost:9090/rest/api/2/projectCategory/100500",
+         "name" : "LIST OF BUZZWORDS",
+         "description" : "https://en.wikipedia.org/wiki/List_of_buzzwords"
+      },
+      "self" : "http://localhost:9090/rest/api/2/project/112045",
+      "key" : "FOLKSONOMY"
+   },
+   {
+      "avatarUrls" : {
+         "24x24" : "http://localhost:9090//secure/projectavatar?size=small&pid=112475&avatarId=112475",
+         "48x48" : "http://localhost:9090//secure/projectavatar?pid=112475&avatarId=112475",
+         "32x32" : "http://localhost:9090//secure/projectavatar?size=medium&pid=112475&avatarId=112475",
+         "16x16" : "http://localhost:9090//secure/projectavatar?size=xsmall&pid=112475&avatarId=112475"
+      },
+      "name" : "Fuzzy logic[83]",
+      "projectCategory" : {
+         "self" : "http://localhost:9090/rest/api/2/projectCategory/100500",
+         "name" : "LIST OF BUZZWORDS",
+         "description" : "https://en.wikipedia.org/wiki/List_of_buzzwords",
+         "id" : "100500"
+      },
+      "expand" : "description,lead,url,projectKeys",
+      "id" : "112475",
+      "projectTypeKey" : "software",
+      "self" : "http://localhost:9090/rest/api/2/project/112475",
+      "key" : "FUZZYLOGIC"
+   },
+   {
+      "projectCategory" : {
+         "id" : "100500",
+         "description" : "https://en.wikipedia.org/wiki/List_of_buzzwords",
+         "name" : "LIST OF BUZZWORDS",
+         "self" : "http://localhost:9090/rest/api/2/projectCategory/100500"
+      },
+      "projectTypeKey" : "software",
+      "expand" : "description,lead,url,projectKeys",
+      "id" : "112795",
+      "name" : "Growth Hacking",
+      "avatarUrls" : {
+         "16x16" : "http://localhost:9090//secure/projectavatar?size=xsmall&pid=112795&avatarId=112795",
+         "32x32" : "http://localhost:9090//secure/projectavatar?size=medium&pid=112795&avatarId=112795",
+         "48x48" : "http://localhost:9090//secure/projectavatar?pid=112795&avatarId=112795",
+         "24x24" : "http://localhost:9090//secure/projectavatar?size=small&pid=112795&avatarId=112795"
+      },
+      "key" : "GROWTHHACKING",
+      "self" : "http://localhost:9090/rest/api/2/project/112795"
+   },
+   {
+      "name" : "HTML5[84]",
+      "avatarUrls" : {
+         "16x16" : "http://localhost:9090//secure/projectavatar?size=xsmall&pid=113278&avatarId=113278",
+         "32x32" : "http://localhost:9090//secure/projectavatar?size=medium&pid=113278&avatarId=113278",
+         "48x48" : "http://localhost:9090//secure/projectavatar?pid=113278&avatarId=113278",
+         "24x24" : "http://localhost:9090//secure/projectavatar?size=small&pid=113278&avatarId=113278"
+      },
+      "projectCategory" : {
+         "id" : "100500",
+         "description" : "https://en.wikipedia.org/wiki/List_of_buzzwords",
+         "name" : "LIST OF BUZZWORDS",
+         "self" : "http://localhost:9090/rest/api/2/projectCategory/100500"
+      },
+      "expand" : "description,lead,url,projectKeys",
+      "id" : "113278",
+      "projectTypeKey" : "software",
+      "key" : "HTML",
+      "self" : "http://localhost:9090/rest/api/2/project/113278"
+   },
+   {
+      "self" : "http://localhost:9090/rest/api/2/project/113384",
+      "key" : "IMMERSION",
+      "projectCategory" : {
+         "id" : "100500",
+         "name" : "LIST OF BUZZWORDS",
+         "description" : "https://en.wikipedia.org/wiki/List_of_buzzwords",
+         "self" : "http://localhost:9090/rest/api/2/projectCategory/100500"
+      },
+      "expand" : "description,lead,url,projectKeys",
+      "projectTypeKey" : "software",
+      "id" : "113384",
+      "avatarUrls" : {
+         "24x24" : "http://localhost:9090//secure/projectavatar?size=small&pid=113384&avatarId=113384",
+         "48x48" : "http://localhost:9090//secure/projectavatar?pid=113384&avatarId=113384",
+         "16x16" : "http://localhost:9090//secure/projectavatar?size=xsmall&pid=113384&avatarId=113384",
+         "32x32" : "http://localhost:9090//secure/projectavatar?size=medium&pid=113384&avatarId=113384"
+      },
+      "name" : "Immersion[85]"
+   },
+   {
+      "key" : "INFORMATIONSUPERHIGHWAY",
+      "self" : "http://localhost:9090/rest/api/2/project/113823",
+      "projectCategory" : {
+         "id" : "100500",
+         "self" : "http://localhost:9090/rest/api/2/projectCategory/100500",
+         "name" : "LIST OF BUZZWORDS",
+         "description" : "https://en.wikipedia.org/wiki/List_of_buzzwords"
+      },
+      "expand" : "description,lead,url,projectKeys",
+      "id" : "113823",
+      "projectTypeKey" : "software",
+      "name" : "Information superhighway / Information highway[8]",
+      "avatarUrls" : {
+         "16x16" : "http://localhost:9090//secure/projectavatar?size=xsmall&pid=113823&avatarId=113823",
+         "32x32" : "http://localhost:9090//secure/projectavatar?size=medium&pid=113823&avatarId=113823",
+         "24x24" : "http://localhost:9090//secure/projectavatar?size=small&pid=113823&avatarId=113823",
+         "48x48" : "http://localhost:9090//secure/projectavatar?pid=113823&avatarId=113823"
+      }
+   },
+   {
+      "key" : "INTERNETOF",
+      "self" : "http://localhost:9090/rest/api/2/project/114320",
+      "id" : "114320",
+      "expand" : "description,lead,url,projectKeys",
+      "projectTypeKey" : "software",
+      "projectCategory" : {
+         "self" : "http://localhost:9090/rest/api/2/projectCategory/100500",
+         "name" : "LIST OF BUZZWORDS",
+         "description" : "https://en.wikipedia.org/wiki/List_of_buzzwords",
+         "id" : "100500"
+      },
+      "name" : "Internet of Things[86]",
+      "avatarUrls" : {
+         "32x32" : "http://localhost:9090//secure/projectavatar?size=medium&pid=114320&avatarId=114320",
+         "16x16" : "http://localhost:9090//secure/projectavatar?size=xsmall&pid=114320&avatarId=114320",
+         "24x24" : "http://localhost:9090//secure/projectavatar?size=small&pid=114320&avatarId=114320",
+         "48x48" : "http://localhost:9090//secure/projectavatar?pid=114320&avatarId=114320"
+      }
+   },
+   {
+      "key" : "INNOVATION",
+      "self" : "http://localhost:9090/rest/api/2/project/114486",
+      "projectCategory" : {
+         "name" : "LIST OF BUZZWORDS",
+         "description" : "https://en.wikipedia.org/wiki/List_of_buzzwords",
+         "self" : "http://localhost:9090/rest/api/2/projectCategory/100500",
+         "id" : "100500"
+      },
+      "id" : "114486",
+      "expand" : "description,lead,url,projectKeys",
+      "projectTypeKey" : "software",
+      "name" : "Innovation[87]",
+      "avatarUrls" : {
+         "16x16" : "http://localhost:9090//secure/projectavatar?size=xsmall&pid=114486&avatarId=114486",
+         "32x32" : "http://localhost:9090//secure/projectavatar?size=medium&pid=114486&avatarId=114486",
+         "48x48" : "http://localhost:9090//secure/projectavatar?pid=114486&avatarId=114486",
+         "24x24" : "http://localhost:9090//secure/projectavatar?size=small&pid=114486&avatarId=114486"
+      }
+   },
+   {
+      "name" : "Machine Learning",
+      "avatarUrls" : {
+         "48x48" : "http://localhost:9090//secure/projectavatar?pid=114820&avatarId=114820",
+         "24x24" : "http://localhost:9090//secure/projectavatar?size=small&pid=114820&avatarId=114820",
+         "32x32" : "http://localhost:9090//secure/projectavatar?size=medium&pid=114820&avatarId=114820",
+         "16x16" : "http://localhost:9090//secure/projectavatar?size=xsmall&pid=114820&avatarId=114820"
+      },
+      "projectCategory" : {
+         "description" : "https://en.wikipedia.org/wiki/List_of_buzzwords",
+         "name" : "LIST OF BUZZWORDS",
+         "self" : "http://localhost:9090/rest/api/2/projectCategory/100500",
+         "id" : "100500"
+      },
+      "id" : "114820",
+      "expand" : "description,lead,url,projectKeys",
+      "projectTypeKey" : "software",
+      "key" : "MACHINELEARNING",
+      "self" : "http://localhost:9090/rest/api/2/project/114820"
+   },
+   {
+      "self" : "http://localhost:9090/rest/api/2/project/115138",
+      "key" : "MASHUP",
+      "id" : "115138",
+      "projectTypeKey" : "software",
+      "expand" : "description,lead,url,projectKeys",
+      "projectCategory" : {
+         "id" : "100500",
+         "name" : "LIST OF BUZZWORDS",
+         "description" : "https://en.wikipedia.org/wiki/List_of_buzzwords",
+         "self" : "http://localhost:9090/rest/api/2/projectCategory/100500"
+      },
+      "avatarUrls" : {
+         "24x24" : "http://localhost:9090//secure/projectavatar?size=small&pid=115138&avatarId=115138",
+         "48x48" : "http://localhost:9090//secure/projectavatar?pid=115138&avatarId=115138",
+         "16x16" : "http://localhost:9090//secure/projectavatar?size=xsmall&pid=115138&avatarId=115138",
+         "32x32" : "http://localhost:9090//secure/projectavatar?size=medium&pid=115138&avatarId=115138"
+      },
+      "name" : "Mashup[8]"
+   },
+   {
+      "projectCategory" : {
+         "name" : "LIST OF BUZZWORDS",
+         "description" : "https://en.wikipedia.org/wiki/List_of_buzzwords",
+         "self" : "http://localhost:9090/rest/api/2/projectCategory/100500",
+         "id" : "100500"
+      },
+      "expand" : "description,lead,url,projectKeys",
+      "id" : "115373",
+      "projectTypeKey" : "software",
+      "avatarUrls" : {
+         "24x24" : "http://localhost:9090//secure/projectavatar?size=small&pid=115373&avatarId=115373",
+         "48x48" : "http://localhost:9090//secure/projectavatar?pid=115373&avatarId=115373",
+         "32x32" : "http://localhost:9090//secure/projectavatar?size=medium&pid=115373&avatarId=115373",
+         "16x16" : "http://localhost:9090//secure/projectavatar?size=xsmall&pid=115373&avatarId=115373"
+      },
+      "name" : "Microservices",
+      "self" : "http://localhost:9090/rest/api/2/project/115373",
+      "key" : "MICROSERVICES"
+   },
+   {
+      "avatarUrls" : {
+         "24x24" : "http://localhost:9090//secure/projectavatar?size=small&pid=115620&avatarId=115620",
+         "48x48" : "http://localhost:9090//secure/projectavatar?pid=115620&avatarId=115620",
+         "32x32" : "http://localhost:9090//secure/projectavatar?size=medium&pid=115620&avatarId=115620",
+         "16x16" : "http://localhost:9090//secure/projectavatar?size=xsmall&pid=115620&avatarId=115620"
+      },
+      "name" : "Mobile[88]",
+      "id" : "115620",
+      "projectTypeKey" : "software",
+      "expand" : "description,lead,url,projectKeys",
+      "projectCategory" : {
+         "self" : "http://localhost:9090/rest/api/2/projectCategory/100500",
+         "name" : "LIST OF BUZZWORDS",
+         "description" : "https://en.wikipedia.org/wiki/List_of_buzzwords",
+         "id" : "100500"
+      },
+      "self" : "http://localhost:9090/rest/api/2/project/115620",
+      "key" : "MOBILE"
+   },
+   {
+      "projectCategory" : {
+         "self" : "http://localhost:9090/rest/api/2/projectCategory/100500",
+         "name" : "LIST OF BUZZWORDS",
+         "description" : "https://en.wikipedia.org/wiki/List_of_buzzwords",
+         "id" : "100500"
+      },
+      "expand" : "description,lead,url,projectKeys",
+      "id" : "115964",
+      "projectTypeKey" : "software",
+      "name" : "Modularity[89][90]",
+      "avatarUrls" : {
+         "24x24" : "http://localhost:9090//secure/projectavatar?size=small&pid=115964&avatarId=115964",
+         "48x48" : "http://localhost:9090//secure/projectavatar?pid=115964&avatarId=115964",
+         "32x32" : "http://localhost:9090//secure/projectavatar?size=medium&pid=115964&avatarId=115964",
+         "16x16" : "http://localhost:9090//secure/projectavatar?size=xsmall&pid=115964&avatarId=115964"
+      },
+      "key" : "MODULARITY",
+      "self" : "http://localhost:9090/rest/api/2/project/115964"
+   },
+   {
+      "self" : "http://localhost:9090/rest/api/2/project/116462",
+      "key" : "NANOTECHNOLOGY",
+      "avatarUrls" : {
+         "24x24" : "http://localhost:9090//secure/projectavatar?size=small&pid=116462&avatarId=116462",
+         "48x48" : "http://localhost:9090//secure/projectavatar?pid=116462&avatarId=116462",
+         "16x16" : "http://localhost:9090//secure/projectavatar?size=xsmall&pid=116462&avatarId=116462",
+         "32x32" : "http://localhost:9090//secure/projectavatar?size=medium&pid=116462&avatarId=116462"
+      },
+      "name" : "Nanotechnology[91]",
+      "projectTypeKey" : "software",
+      "expand" : "description,lead,url,projectKeys",
+      "id" : "116462",
+      "projectCategory" : {
+         "id" : "100500",
+         "description" : "https://en.wikipedia.org/wiki/List_of_buzzwords",
+         "name" : "LIST OF BUZZWORDS",
+         "self" : "http://localhost:9090/rest/api/2/projectCategory/100500"
+      }
+   },
+   {
+      "self" : "http://localhost:9090/rest/api/2/project/116732",
+      "key" : "NETIQUETTE",
+      "expand" : "description,lead,url,projectKeys",
+      "id" : "116732",
+      "projectTypeKey" : "software",
+      "projectCategory" : {
+         "id" : "100500",
+         "name" : "LIST OF BUZZWORDS",
+         "description" : "https://en.wikipedia.org/wiki/List_of_buzzwords",
+         "self" : "http://localhost:9090/rest/api/2/projectCategory/100500"
+      },
+      "avatarUrls" : {
+         "16x16" : "http://localhost:9090//secure/projectavatar?size=xsmall&pid=116732&avatarId=116732",
+         "32x32" : "http://localhost:9090//secure/projectavatar?size=medium&pid=116732&avatarId=116732",
+         "24x24" : "http://localhost:9090//secure/projectavatar?size=small&pid=116732&avatarId=116732",
+         "48x48" : "http://localhost:9090//secure/projectavatar?pid=116732&avatarId=116732"
+      },
+      "name" : "Netiquette[63]"
+   },
+   {
+      "avatarUrls" : {
+         "24x24" : "http://localhost:9090//secure/projectavatar?size=small&pid=116962&avatarId=116962",
+         "48x48" : "http://localhost:9090//secure/projectavatar?pid=116962&avatarId=116962",
+         "16x16" : "http://localhost:9090//secure/projectavatar?size=xsmall&pid=116962&avatarId=116962",
+         "32x32" : "http://localhost:9090//secure/projectavatar?size=medium&pid=116962&avatarId=116962"
+      },
+      "name" : "NFV- Network Function virtualization",
+      "projectTypeKey" : "software",
+      "expand" : "description,lead,url,projectKeys",
+      "id" : "116962",
+      "projectCategory" : {
+         "id" : "100500",
+         "name" : "LIST OF BUZZWORDS",
+         "description" : "https://en.wikipedia.org/wiki/List_of_buzzwords",
+         "self" : "http://localhost:9090/rest/api/2/projectCategory/100500"
+      },
+      "self" : "http://localhost:9090/rest/api/2/project/116962",
+      "key" : "NFVNETWORK"
+   },
+   {
+      "self" : "http://localhost:9090/rest/api/2/project/117072",
+      "key" : "NEXTGENERATION",
+      "id" : "117072",
+      "expand" : "description,lead,url,projectKeys",
+      "projectTypeKey" : "software",
+      "projectCategory" : {
+         "id" : "100500",
+         "self" : "http://localhost:9090/rest/api/2/projectCategory/100500",
+         "name" : "LIST OF BUZZWORDS",
+         "description" : "https://en.wikipedia.org/wiki/List_of_buzzwords"
+      },
+      "avatarUrls" : {
+         "32x32" : "http://localhost:9090//secure/projectavatar?size=medium&pid=117072&avatarId=117072",
+         "16x16" : "http://localhost:9090//secure/projectavatar?size=xsmall&pid=117072&avatarId=117072",
+         "24x24" : "http://localhost:9090//secure/projectavatar?size=small&pid=117072&avatarId=117072",
+         "48x48" : "http://localhost:9090//secure/projectavatar?pid=117072&avatarId=117072"
+      },
+      "name" : "Next Generation[85] (also \"NextGen\")"
+   },
+   {
+      "self" : "http://localhost:9090/rest/api/2/project/117513",
+      "key" : "OBJECTORIENTEDPROGRAMMING",
+      "avatarUrls" : {
+         "24x24" : "http://localhost:9090//secure/projectavatar?size=small&pid=117513&avatarId=117513",
+         "48x48" : "http://localhost:9090//secure/projectavatar?pid=117513&avatarId=117513",
+         "32x32" : "http://localhost:9090//secure/projectavatar?size=medium&pid=117513&avatarId=117513",
+         "16x16" : "http://localhost:9090//secure/projectavatar?size=xsmall&pid=117513&avatarId=117513"
+      },
+      "name" : "Object-Oriented Programming",
+      "projectCategory" : {
+         "id" : "100500",
+         "name" : "LIST OF BUZZWORDS",
+         "description" : "https://en.wikipedia.org/wiki/List_of_buzzwords",
+         "self" : "http://localhost:9090/rest/api/2/projectCategory/100500"
+      },
+      "id" : "117513",
+      "expand" : "description,lead,url,projectKeys",
+      "projectTypeKey" : "software"
+   },
+   {
+      "name" : "Omnichannel",
+      "avatarUrls" : {
+         "48x48" : "http://localhost:9090//secure/projectavatar?pid=117723&avatarId=117723",
+         "24x24" : "http://localhost:9090//secure/projectavatar?size=small&pid=117723&avatarId=117723",
+         "16x16" : "http://localhost:9090//secure/projectavatar?size=xsmall&pid=117723&avatarId=117723",
+         "32x32" : "http://localhost:9090//secure/projectavatar?size=medium&pid=117723&avatarId=117723"
+      },
+      "projectCategory" : {
+         "self" : "http://localhost:9090/rest/api/2/projectCategory/100500",
+         "description" : "https://en.wikipedia.org/wiki/List_of_buzzwords",
+         "name" : "LIST OF BUZZWORDS",
+         "id" : "100500"
+      },
+      "id" : "117723",
+      "expand" : "description,lead,url,projectKeys",
+      "projectTypeKey" : "software",
+      "key" : "OMNICHANNEL",
+      "self" : "http://localhost:9090/rest/api/2/project/117723"
+   },
+   {
+      "avatarUrls" : {
+         "48x48" : "http://localhost:9090//secure/projectavatar?pid=117878&avatarId=117878",
+         "24x24" : "http://localhost:9090//secure/projectavatar?size=small&pid=117878&avatarId=117878",
+         "16x16" : "http://localhost:9090//secure/projectavatar?size=xsmall&pid=117878&avatarId=117878",
+         "32x32" : "http://localhost:9090//secure/projectavatar?size=medium&pid=117878&avatarId=117878"
+      },
+      "name" : "Pandering",
+      "projectTypeKey" : "software",
+      "id" : "117878",
+      "expand" : "description,lead,url,projectKeys",
+      "projectCategory" : {
+         "id" : "100500",
+         "self" : "http://localhost:9090/rest/api/2/projectCategory/100500",
+         "description" : "https://en.wikipedia.org/wiki/List_of_buzzwords",
+         "name" : "LIST OF BUZZWORDS"
+      },
+      "self" : "http://localhost:9090/rest/api/2/project/117878",
+      "key" : "PANDERING"
+   },
+   {
+      "self" : "http://localhost:9090/rest/api/2/project/118052",
+      "key" : "PARSING",
+      "projectCategory" : {
+         "self" : "http://localhost:9090/rest/api/2/projectCategory/100500",
+         "description" : "https://en.wikipedia.org/wiki/List_of_buzzwords",
+         "name" : "LIST OF BUZZWORDS",
+         "id" : "100500"
+      },
+      "projectTypeKey" : "software",
+      "id" : "118052",
+      "expand" : "description,lead,url,projectKeys",
+      "avatarUrls" : {
+         "32x32" : "http://localhost:9090//secure/projectavatar?size=medium&pid=118052&avatarId=118052",
+         "16x16" : "http://localhost:9090//secure/projectavatar?size=xsmall&pid=118052&avatarId=118052",
+         "48x48" : "http://localhost:9090//secure/projectavatar?pid=118052&avatarId=118052",
+         "24x24" : "http://localhost:9090//secure/projectavatar?size=small&pid=118052&avatarId=118052"
+      },
+      "name" : "Parsing"
+   },
+   {
+      "self" : "http://localhost:9090/rest/api/2/project/118266",
+      "key" : "PAAS",
+      "avatarUrls" : {
+         "32x32" : "http://localhost:9090//secure/projectavatar?size=medium&pid=118266&avatarId=118266",
+         "16x16" : "http://localhost:9090//secure/projectavatar?size=xsmall&pid=118266&avatarId=118266",
+         "24x24" : "http://localhost:9090//secure/projectavatar?size=small&pid=118266&avatarId=118266",
+         "48x48" : "http://localhost:9090//secure/projectavatar?pid=118266&avatarId=118266"
+      },
+      "name" : "PaaS",
+      "projectCategory" : {
+         "description" : "https://en.wikipedia.org/wiki/List_of_buzzwords",
+         "name" : "LIST OF BUZZWORDS",
+         "self" : "http://localhost:9090/rest/api/2/projectCategory/100500",
+         "id" : "100500"
+      },
+      "expand" : "description,lead,url,projectKeys",
+      "id" : "118266",
+      "projectTypeKey" : "software"
+   },
+   {
+      "avatarUrls" : {
+         "32x32" : "http://localhost:9090//secure/projectavatar?size=medium&pid=118702&avatarId=118702",
+         "16x16" : "http://localhost:9090//secure/projectavatar?size=xsmall&pid=118702&avatarId=118702",
+         "24x24" : "http://localhost:9090//secure/projectavatar?size=small&pid=118702&avatarId=118702",
+         "48x48" : "http://localhost:9090//secure/projectavatar?pid=118702&avatarId=118702"
+      },
+      "name" : "Podcasting[58][63]",
+      "projectCategory" : {
+         "id" : "100500",
+         "self" : "http://localhost:9090/rest/api/2/projectCategory/100500",
+         "name" : "LIST OF BUZZWORDS",
+         "description" : "https://en.wikipedia.org/wiki/List_of_buzzwords"
+      },
+      "projectTypeKey" : "software",
+      "expand" : "description,lead,url,projectKeys",
+      "id" : "118702",
+      "self" : "http://localhost:9090/rest/api/2/project/118702",
+      "key" : "PODCASTING"
+   },
+   {
+      "expand" : "description,lead,url,projectKeys",
+      "projectTypeKey" : "software",
+      "id" : "118816",
+      "projectCategory" : {
+         "name" : "LIST OF BUZZWORDS",
+         "description" : "https://en.wikipedia.org/wiki/List_of_buzzwords",
+         "self" : "http://localhost:9090/rest/api/2/projectCategory/100500",
+         "id" : "100500"
+      },
+      "avatarUrls" : {
+         "48x48" : "http://localhost:9090//secure/projectavatar?pid=118816&avatarId=118816",
+         "24x24" : "http://localhost:9090//secure/projectavatar?size=small&pid=118816&avatarId=118816",
+         "32x32" : "http://localhost:9090//secure/projectavatar?size=medium&pid=118816&avatarId=118816",
+         "16x16" : "http://localhost:9090//secure/projectavatar?size=xsmall&pid=118816&avatarId=118816"
+      },
+      "name" : "Portal[31]",
+      "self" : "http://localhost:9090/rest/api/2/project/118816",
+      "key" : "PORTAL"
+   },
+   {
+      "projectCategory" : {
+         "name" : "LIST OF BUZZWORDS",
+         "description" : "https://en.wikipedia.org/wiki/List_of_buzzwords",
+         "self" : "http://localhost:9090/rest/api/2/projectCategory/100500",
+         "id" : "100500"
+      },
+      "expand" : "description,lead,url,projectKeys",
+      "projectTypeKey" : "software",
+      "id" : "119170",
+      "avatarUrls" : {
+         "16x16" : "http://localhost:9090//secure/projectavatar?size=xsmall&pid=119170&avatarId=119170",
+         "32x32" : "http://localhost:9090//secure/projectavatar?size=medium&pid=119170&avatarId=119170",
+         "48x48" : "http://localhost:9090//secure/projectavatar?pid=119170&avatarId=119170",
+         "24x24" : "http://localhost:9090//secure/projectavatar?size=small&pid=119170&avatarId=119170"
+      },
+      "name" : "Real-time[63]",
+      "self" : "http://localhost:9090/rest/api/2/project/119170",
+      "key" : "REALTIME"
+   },
+   {
+      "key" : "RESPONSIVEWEB",
+      "self" : "http://localhost:9090/rest/api/2/project/119651",
+      "name" : "Responsive Web Design[92]",
+      "avatarUrls" : {
+         "24x24" : "http://localhost:9090//secure/projectavatar?size=small&pid=119651&avatarId=119651",
+         "48x48" : "http://localhost:9090//secure/projectavatar?pid=119651&avatarId=119651",
+         "16x16" : "http://localhost:9090//secure/projectavatar?size=xsmall&pid=119651&avatarId=119651",
+         "32x32" : "http://localhost:9090//secure/projectavatar?size=medium&pid=119651&avatarId=119651"
+      },
+      "id" : "119651",
+      "projectTypeKey" : "software",
+      "expand" : "description,lead,url,projectKeys",
+      "projectCategory" : {
+         "self" : "http://localhost:9090/rest/api/2/projectCategory/100500",
+         "name" : "LIST OF BUZZWORDS",
+         "description" : "https://en.wikipedia.org/wiki/List_of_buzzwords",
+         "id" : "100500"
+      }
+   },
+   {
+      "key" : "SENSORIZATION",
+      "self" : "http://localhost:9090/rest/api/2/project/119815",
+      "projectCategory" : {
+         "id" : "100500",
+         "self" : "http://localhost:9090/rest/api/2/projectCategory/100500",
+         "name" : "LIST OF BUZZWORDS",
+         "description" : "https://en.wikipedia.org/wiki/List_of_buzzwords"
+      },
+      "id" : "119815",
+      "expand" : "description,lead,url,projectKeys",
+      "projectTypeKey" : "software",
+      "name" : "Sensorization[93]",
+      "avatarUrls" : {
+         "24x24" : "http://localhost:9090//secure/projectavatar?size=small&pid=119815&avatarId=119815",
+         "48x48" : "http://localhost:9090//secure/projectavatar?pid=119815&avatarId=119815",
+         "32x32" : "http://localhost:9090//secure/projectavatar?size=medium&pid=119815&avatarId=119815",
+         "16x16" : "http://localhost:9090//secure/projectavatar?size=xsmall&pid=119815&avatarId=119815"
+      }
+   },
+   {
+      "self" : "http://localhost:9090/rest/api/2/project/120128",
+      "key" : "SAAS",
+      "avatarUrls" : {
+         "48x48" : "http://localhost:9090//secure/projectavatar?pid=120128&avatarId=120128",
+         "24x24" : "http://localhost:9090//secure/projectavatar?size=small&pid=120128&avatarId=120128",
+         "16x16" : "http://localhost:9090//secure/projectavatar?size=xsmall&pid=120128&avatarId=120128",
+         "32x32" : "http://localhost:9090//secure/projectavatar?size=medium&pid=120128&avatarId=120128"
+      },
+      "name" : "SaaS[58]",
+      "projectCategory" : {
+         "self" : "http://localhost:9090/rest/api/2/projectCategory/100500",
+         "description" : "https://en.wikipedia.org/wiki/List_of_buzzwords",
+         "name" : "LIST OF BUZZWORDS",
+         "id" : "100500"
+      },
+      "projectTypeKey" : "software",
+      "id" : "120128",
+      "expand" : "description,lead,url,projectKeys"
+   },
+   {
+      "key" : "SCALABILITY",
+      "self" : "http://localhost:9090/rest/api/2/project/120483",
+      "name" : "Scalability[94][95]",
+      "avatarUrls" : {
+         "24x24" : "http://localhost:9090//secure/projectavatar?size=small&pid=120483&avatarId=120483",
+         "48x48" : "http://localhost:9090//secure/projectavatar?pid=120483&avatarId=120483",
+         "16x16" : "http://localhost:9090//secure/projectavatar?size=xsmall&pid=120483&avatarId=120483",
+         "32x32" : "http://localhost:9090//secure/projectavatar?size=medium&pid=120483&avatarId=120483"
+      },
+      "projectTypeKey" : "software",
+      "id" : "120483",
+      "expand" : "description,lead,url,projectKeys",
+      "projectCategory" : {
+         "name" : "LIST OF BUZZWORDS",
+         "description" : "https://en.wikipedia.org/wiki/List_of_buzzwords",
+         "self" : "http://localhost:9090/rest/api/2/projectCategory/100500",
+         "id" : "100500"
+      }
+   },
+   {
+      "projectTypeKey" : "software",
+      "id" : "120856",
+      "expand" : "description,lead,url,projectKeys",
+      "projectCategory" : {
+         "name" : "LIST OF BUZZWORDS",
+         "description" : "https://en.wikipedia.org/wiki/List_of_buzzwords",
+         "self" : "http://localhost:9090/rest/api/2/projectCategory/100500",
+         "id" : "100500"
+      },
+      "avatarUrls" : {
+         "16x16" : "http://localhost:9090//secure/projectavatar?size=xsmall&pid=120856&avatarId=120856",
+         "32x32" : "http://localhost:9090//secure/projectavatar?size=medium&pid=120856&avatarId=120856",
+         "24x24" : "http://localhost:9090//secure/projectavatar?size=small&pid=120856&avatarId=120856",
+         "48x48" : "http://localhost:9090//secure/projectavatar?pid=120856&avatarId=120856"
+      },
+      "name" : "Skeuomorphic",
+      "self" : "http://localhost:9090/rest/api/2/project/120856",
+      "key" : "SKEUOMORPHIC"
+   },
+   {
+      "projectCategory" : {
+         "id" : "100500",
+         "self" : "http://localhost:9090/rest/api/2/projectCategory/100500",
+         "description" : "https://en.wikipedia.org/wiki/List_of_buzzwords",
+         "name" : "LIST OF BUZZWORDS"
+      },
+      "projectTypeKey" : "software",
+      "expand" : "description,lead,url,projectKeys",
+      "id" : "120959",
+      "avatarUrls" : {
+         "24x24" : "http://localhost:9090//secure/projectavatar?size=small&pid=120959&avatarId=120959",
+         "48x48" : "http://localhost:9090//secure/projectavatar?pid=120959&avatarId=120959",
+         "16x16" : "http://localhost:9090//secure/projectavatar?size=xsmall&pid=120959&avatarId=120959",
+         "32x32" : "http://localhost:9090//secure/projectavatar?size=medium&pid=120959&avatarId=120959"
+      },
+      "name" : "Social bookmarking[58]",
+      "self" : "http://localhost:9090/rest/api/2/project/120959",
+      "key" : "SOCIALBOOKMARKING"
+   },
+   {
+      "key" : "SOCIALSOFTWARE",
+      "self" : "http://localhost:9090/rest/api/2/project/121358",
+      "name" : "Social software[63]",
+      "avatarUrls" : {
+         "32x32" : "http://localhost:9090//secure/projectavatar?size=medium&pid=121358&avatarId=121358",
+         "16x16" : "http://localhost:9090//secure/projectavatar?size=xsmall&pid=121358&avatarId=121358",
+         "24x24" : "http://localhost:9090//secure/projectavatar?size=small&pid=121358&avatarId=121358",
+         "48x48" : "http://localhost:9090//secure/projectavatar?pid=121358&avatarId=121358"
+      },
+      "id" : "121358",
+      "expand" : "description,lead,url,projectKeys",
+      "projectTypeKey" : "software",
+      "projectCategory" : {
+         "self" : "http://localhost:9090/rest/api/2/projectCategory/100500",
+         "name" : "LIST OF BUZZWORDS",
+         "description" : "https://en.wikipedia.org/wiki/List_of_buzzwords",
+         "id" : "100500"
+      }
+   },
+   {
+      "projectTypeKey" : "software",
+      "expand" : "description,lead,url,projectKeys",
+      "id" : "121537",
+      "projectCategory" : {
+         "id" : "100500",
+         "description" : "https://en.wikipedia.org/wiki/List_of_buzzwords",
+         "name" : "LIST OF BUZZWORDS",
+         "self" : "http://localhost:9090/rest/api/2/projectCategory/100500"
+      },
+      "name" : "Software Defined _blank_",
+      "avatarUrls" : {
+         "24x24" : "http://localhost:9090//secure/projectavatar?size=small&pid=121537&avatarId=121537",
+         "48x48" : "http://localhost:9090//secure/projectavatar?pid=121537&avatarId=121537",
+         "32x32" : "http://localhost:9090//secure/projectavatar?size=medium&pid=121537&avatarId=121537",
+         "16x16" : "http://localhost:9090//secure/projectavatar?size=xsmall&pid=121537&avatarId=121537"
+      },
+      "key" : "SOFTWAREDEFINED",
+      "self" : "http://localhost:9090/rest/api/2/project/121537"
+   },
+   {
+      "name" : "SDN- Software defined Networking",
+      "avatarUrls" : {
+         "48x48" : "http://localhost:9090//secure/projectavatar?pid=121687&avatarId=121687",
+         "24x24" : "http://localhost:9090//secure/projectavatar?size=small&pid=121687&avatarId=121687",
+         "32x32" : "http://localhost:9090//secure/projectavatar?size=medium&pid=121687&avatarId=121687",
+         "16x16" : "http://localhost:9090//secure/projectavatar?size=xsmall&pid=121687&avatarId=121687"
+      },
+      "id" : "121687",
+      "projectTypeKey" : "software",
+      "expand" : "description,lead,url,projectKeys",
+      "projectCategory" : {
+         "name" : "LIST OF BUZZWORDS",
+         "description" : "https://en.wikipedia.org/wiki/List_of_buzzwords",
+         "self" : "http://localhost:9090/rest/api/2/projectCategory/100500",
+         "id" : "100500"
+      },
+      "key" : "SDNSOFTWARE",
+      "self" : "http://localhost:9090/rest/api/2/project/121687"
+   },
+   {
+      "projectCategory" : {
+         "id" : "100500",
+         "name" : "LIST OF BUZZWORDS",
+         "description" : "https://en.wikipedia.org/wiki/List_of_buzzwords",
+         "self" : "http://localhost:9090/rest/api/2/projectCategory/100500"
+      },
+      "expand" : "description,lead,url,projectKeys",
+      "id" : "122167",
+      "projectTypeKey" : "software",
+      "avatarUrls" : {
+         "16x16" : "http://localhost:9090//secure/projectavatar?size=xsmall&pid=122167&avatarId=122167",
+         "32x32" : "http://localhost:9090//secure/projectavatar?size=medium&pid=122167&avatarId=122167",
+         "24x24" : "http://localhost:9090//secure/projectavatar?size=small&pid=122167&avatarId=122167",
+         "48x48" : "http://localhost:9090//secure/projectavatar?pid=122167&avatarId=122167"
+      },
+      "name" : "Spam[63]",
+      "self" : "http://localhost:9090/rest/api/2/project/122167",
+      "key" : "SPAM"
+   },
+   {
+      "self" : "http://localhost:9090/rest/api/2/project/122477",
+      "key" : "SYNCUP",
+      "id" : "122477",
+      "expand" : "description,lead,url,projectKeys",
+      "projectTypeKey" : "software",
+      "projectCategory" : {
+         "id" : "100500",
+         "self" : "http://localhost:9090/rest/api/2/projectCategory/100500",
+         "description" : "https://en.wikipedia.org/wiki/List_of_buzzwords",
+         "name" : "LIST OF BUZZWORDS"
+      },
+      "avatarUrls" : {
+         "24x24" : "http://localhost:9090//secure/projectavatar?size=small&pid=122477&avatarId=122477",
+         "48x48" : "http://localhost:9090//secure/projectavatar?pid=122477&avatarId=122477",
+         "16x16" : "http://localhost:9090//secure/projectavatar?size=xsmall&pid=122477&avatarId=122477",
+         "32x32" : "http://localhost:9090//secure/projectavatar?size=medium&pid=122477&avatarId=122477"
+      },
+      "name" : "Sync-up[15]"
+   },
+   {
+      "key" : "SYSTEMSDEVELOPMENT",
+      "self" : "http://localhost:9090/rest/api/2/project/122916",
+      "name" : "Systems Development Life-Cycle",
+      "avatarUrls" : {
+         "48x48" : "http://localhost:9090//secure/projectavatar?pid=122916&avatarId=122916",
+         "24x24" : "http://localhost:9090//secure/projectavatar?size=small&pid=122916&avatarId=122916",
+         "16x16" : "http://localhost:9090//secure/projectavatar?size=xsmall&pid=122916&avatarId=122916",
+         "32x32" : "http://localhost:9090//secure/projectavatar?size=medium&pid=122916&avatarId=122916"
+      },
+      "projectTypeKey" : "software",
+      "expand" : "description,lead,url,projectKeys",
+      "id" : "122916",
+      "projectCategory" : {
+         "id" : "100500",
+         "name" : "LIST OF BUZZWORDS",
+         "description" : "https://en.wikipedia.org/wiki/List_of_buzzwords",
+         "self" : "http://localhost:9090/rest/api/2/projectCategory/100500"
+      }
+   },
+   {
+      "self" : "http://localhost:9090/rest/api/2/project/123360",
+      "key" : "TAGGING",
+      "id" : "123360",
+      "expand" : "description,lead,url,projectKeys",
+      "projectTypeKey" : "software",
+      "projectCategory" : {
+         "self" : "http://localhost:9090/rest/api/2/projectCategory/100500",
+         "name" : "LIST OF BUZZWORDS",
+         "description" : "https://en.wikipedia.org/wiki/List_of_buzzwords",
+         "id" : "100500"
+      },
+      "avatarUrls" : {
+         "48x48" : "http://localhost:9090//secure/projectavatar?pid=123360&avatarId=123360",
+         "24x24" : "http://localhost:9090//secure/projectavatar?size=small&pid=123360&avatarId=123360",
+         "16x16" : "http://localhost:9090//secure/projectavatar?size=xsmall&pid=123360&avatarId=123360",
+         "32x32" : "http://localhost:9090//secure/projectavatar?size=medium&pid=123360&avatarId=123360"
+      },
+      "name" : "Tagging[63]"
+   },
+   {
+      "expand" : "description,lead,url,projectKeys",
+      "projectTypeKey" : "software",
+      "id" : "123631",
+      "projectCategory" : {
+         "name" : "LIST OF BUZZWORDS",
+         "description" : "https://en.wikipedia.org/wiki/List_of_buzzwords",
+         "self" : "http://localhost:9090/rest/api/2/projectCategory/100500",
+         "id" : "100500"
+      },
+      "name" : "Think outside the box[63]",
+      "avatarUrls" : {
+         "32x32" : "http://localhost:9090//secure/projectavatar?size=medium&pid=123631&avatarId=123631",
+         "16x16" : "http://localhost:9090//secure/projectavatar?size=xsmall&pid=123631&avatarId=123631",
+         "48x48" : "http://localhost:9090//secure/projectavatar?pid=123631&avatarId=123631",
+         "24x24" : "http://localhost:9090//secure/projectavatar?size=small&pid=123631&avatarId=123631"
+      },
+      "key" : "THINKOUTSIDE",
+      "self" : "http://localhost:9090/rest/api/2/project/123631"
+   },
+   {
+      "self" : "http://localhost:9090/rest/api/2/project/123762",
+      "key" : "THOUGHTLEADER",
+      "avatarUrls" : {
+         "32x32" : "http://localhost:9090//secure/projectavatar?size=medium&pid=123762&avatarId=123762",
+         "16x16" : "http://localhost:9090//secure/projectavatar?size=xsmall&pid=123762&avatarId=123762",
+         "48x48" : "http://localhost:9090//secure/projectavatar?pid=123762&avatarId=123762",
+         "24x24" : "http://localhost:9090//secure/projectavatar?size=small&pid=123762&avatarId=123762"
+      },
+      "name" : "Thought Leader",
+      "projectCategory" : {
+         "id" : "100500",
+         "self" : "http://localhost:9090/rest/api/2/projectCategory/100500",
+         "name" : "LIST OF BUZZWORDS",
+         "description" : "https://en.wikipedia.org/wiki/List_of_buzzwords"
+      },
+      "id" : "123762",
+      "projectTypeKey" : "software",
+      "expand" : "description,lead,url,projectKeys"
+   },
+   {
+      "expand" : "description,lead,url,projectKeys",
+      "id" : "124078",
+      "projectTypeKey" : "software",
+      "projectCategory" : {
+         "id" : "100500",
+         "description" : "https://en.wikipedia.org/wiki/List_of_buzzwords",
+         "name" : "LIST OF BUZZWORDS",
+         "self" : "http://localhost:9090/rest/api/2/projectCategory/100500"
+      },
+      "name" : "Transmedia[96]",
+      "avatarUrls" : {
+         "24x24" : "http://localhost:9090//secure/projectavatar?size=small&pid=124078&avatarId=124078",
+         "48x48" : "http://localhost:9090//secure/projectavatar?pid=124078&avatarId=124078",
+         "32x32" : "http://localhost:9090//secure/projectavatar?size=medium&pid=124078&avatarId=124078",
+         "16x16" : "http://localhost:9090//secure/projectavatar?size=xsmall&pid=124078&avatarId=124078"
+      },
+      "key" : "TRANSMEDIA",
+      "self" : "http://localhost:9090/rest/api/2/project/124078"
+   },
+   {
+      "projectCategory" : {
+         "id" : "100500",
+         "self" : "http://localhost:9090/rest/api/2/projectCategory/100500",
+         "description" : "https://en.wikipedia.org/wiki/List_of_buzzwords",
+         "name" : "LIST OF BUZZWORDS"
+      },
+      "id" : "124267",
+      "projectTypeKey" : "software",
+      "expand" : "description,lead,url,projectKeys",
+      "name" : "UC - Unified Communications",
+      "avatarUrls" : {
+         "32x32" : "http://localhost:9090//secure/projectavatar?size=medium&pid=124267&avatarId=124267",
+         "16x16" : "http://localhost:9090//secure/projectavatar?size=xsmall&pid=124267&avatarId=124267",
+         "24x24" : "http://localhost:9090//secure/projectavatar?size=small&pid=124267&avatarId=124267",
+         "48x48" : "http://localhost:9090//secure/projectavatar?pid=124267&avatarId=124267"
+      },
+      "key" : "UCUNIFIED",
+      "self" : "http://localhost:9090/rest/api/2/project/124267"
+   },
+   {
+      "projectTypeKey" : "software",
+      "id" : "124615",
+      "expand" : "description,lead,url,projectKeys",
+      "projectCategory" : {
+         "self" : "http://localhost:9090/rest/api/2/projectCategory/100500",
+         "name" : "LIST OF BUZZWORDS",
+         "description" : "https://en.wikipedia.org/wiki/List_of_buzzwords",
+         "id" : "100500"
+      },
+      "name" : "User generated content[97]",
+      "avatarUrls" : {
+         "24x24" : "http://localhost:9090//secure/projectavatar?size=small&pid=124615&avatarId=124615",
+         "48x48" : "http://localhost:9090//secure/projectavatar?pid=124615&avatarId=124615",
+         "16x16" : "http://localhost:9090//secure/projectavatar?size=xsmall&pid=124615&avatarId=124615",
+         "32x32" : "http://localhost:9090//secure/projectavatar?size=medium&pid=124615&avatarId=124615"
+      },
+      "key" : "USERGENERATED",
+      "self" : "http://localhost:9090/rest/api/2/project/124615"
+   },
+   {
+      "key" : "VIRAL",
+      "self" : "http://localhost:9090/rest/api/2/project/125050",
+      "projectCategory" : {
+         "self" : "http://localhost:9090/rest/api/2/projectCategory/100500",
+         "description" : "https://en.wikipedia.org/wiki/List_of_buzzwords",
+         "name" : "LIST OF BUZZWORDS",
+         "id" : "100500"
+      },
+      "projectTypeKey" : "software",
+      "id" : "125050",
+      "expand" : "description,lead,url,projectKeys",
+      "name" : "Viral",
+      "avatarUrls" : {
+         "32x32" : "http://localhost:9090//secure/projectavatar?size=medium&pid=125050&avatarId=125050",
+         "16x16" : "http://localhost:9090//secure/projectavatar?size=xsmall&pid=125050&avatarId=125050",
+         "48x48" : "http://localhost:9090//secure/projectavatar?pid=125050&avatarId=125050",
+         "24x24" : "http://localhost:9090//secure/projectavatar?size=small&pid=125050&avatarId=125050"
+      }
+   },
+   {
+      "avatarUrls" : {
+         "24x24" : "http://localhost:9090//secure/projectavatar?size=small&pid=125230&avatarId=125230",
+         "48x48" : "http://localhost:9090//secure/projectavatar?pid=125230&avatarId=125230",
+         "16x16" : "http://localhost:9090//secure/projectavatar?size=xsmall&pid=125230&avatarId=125230",
+         "32x32" : "http://localhost:9090//secure/projectavatar?size=medium&pid=125230&avatarId=125230"
+      },
+      "name" : "Virtualization[58]",
+      "projectCategory" : {
+         "id" : "100500",
+         "description" : "https://en.wikipedia.org/wiki/List_of_buzzwords",
+         "name" : "LIST OF BUZZWORDS",
+         "self" : "http://localhost:9090/rest/api/2/projectCategory/100500"
+      },
+      "projectTypeKey" : "software",
+      "id" : "125230",
+      "expand" : "description,lead,url,projectKeys",
+      "self" : "http://localhost:9090/rest/api/2/project/125230",
+      "key" : "VIRTUALIZATION"
+   },
+   {
+      "key" : "VLOGGING",
+      "self" : "http://localhost:9090/rest/api/2/project/125392",
+      "name" : "Vlogging[63]",
+      "avatarUrls" : {
+         "16x16" : "http://localhost:9090//secure/projectavatar?size=xsmall&pid=125392&avatarId=125392",
+         "32x32" : "http://localhost:9090//secure/projectavatar?size=medium&pid=125392&avatarId=125392",
+         "24x24" : "http://localhost:9090//secure/projectavatar?size=small&pid=125392&avatarId=125392",
+         "48x48" : "http://localhost:9090//secure/projectavatar?pid=125392&avatarId=125392"
+      },
+      "projectCategory" : {
+         "self" : "http://localhost:9090/rest/api/2/projectCategory/100500",
+         "name" : "LIST OF BUZZWORDS",
+         "description" : "https://en.wikipedia.org/wiki/List_of_buzzwords",
+         "id" : "100500"
+      },
+      "expand" : "description,lead,url,projectKeys",
+      "id" : "125392",
+      "projectTypeKey" : "software"
+   },
+   {
+      "self" : "http://localhost:9090/rest/api/2/project/125542",
+      "key" : "VORTAL",
+      "avatarUrls" : {
+         "24x24" : "http://localhost:9090//secure/projectavatar?size=small&pid=125542&avatarId=125542",
+         "48x48" : "http://localhost:9090//secure/projectavatar?pid=125542&avatarId=125542",
+         "32x32" : "http://localhost:9090//secure/projectavatar?size=medium&pid=125542&avatarId=125542",
+         "16x16" : "http://localhost:9090//secure/projectavatar?size=xsmall&pid=125542&avatarId=125542"
+      },
+      "name" : "Vortal[98]",
+      "id" : "125542",
+      "projectTypeKey" : "software",
+      "expand" : "description,lead,url,projectKeys",
+      "projectCategory" : {
+         "id" : "100500",
+         "self" : "http://localhost:9090/rest/api/2/projectCategory/100500",
+         "description" : "https://en.wikipedia.org/wiki/List_of_buzzwords",
+         "name" : "LIST OF BUZZWORDS"
+      }
+   },
+   {
+      "key" : "WEB",
+      "self" : "http://localhost:9090/rest/api/2/project/125704",
+      "name" : "Web 2.0[8][58][63]",
+      "avatarUrls" : {
+         "48x48" : "http://localhost:9090//secure/projectavatar?pid=125704&avatarId=125704",
+         "24x24" : "http://localhost:9090//secure/projectavatar?size=small&pid=125704&avatarId=125704",
+         "32x32" : "http://localhost:9090//secure/projectavatar?size=medium&pid=125704&avatarId=125704",
+         "16x16" : "http://localhost:9090//secure/projectavatar?size=xsmall&pid=125704&avatarId=125704"
+      },
+      "projectCategory" : {
+         "id" : "100500",
+         "self" : "http://localhost:9090/rest/api/2/projectCategory/100500",
+         "description" : "https://en.wikipedia.org/wiki/List_of_buzzwords",
+         "name" : "LIST OF BUZZWORDS"
+      },
+      "id" : "125704",
+      "expand" : "description,lead,url,projectKeys",
+      "projectTypeKey" : "software"
+   },
+   {
+      "avatarUrls" : {
+         "16x16" : "http://localhost:9090//secure/projectavatar?size=xsmall&pid=125974&avatarId=125974",
+         "32x32" : "http://localhost:9090//secure/projectavatar?size=medium&pid=125974&avatarId=125974",
+         "24x24" : "http://localhost:9090//secure/projectavatar?size=small&pid=125974&avatarId=125974",
+         "48x48" : "http://localhost:9090//secure/projectavatar?pid=125974&avatarId=125974"
+      },
+      "name" : "Webinar[31][63]",
+      "expand" : "description,lead,url,projectKeys",
+      "id" : "125974",
+      "projectTypeKey" : "software",
+      "projectCategory" : {
+         "description" : "https://en.wikipedia.org/wiki/List_of_buzzwords",
+         "name" : "LIST OF BUZZWORDS",
+         "self" : "http://localhost:9090/rest/api/2/projectCategory/100500",
+         "id" : "100500"
+      },
+      "self" : "http://localhost:9090/rest/api/2/project/125974",
+      "key" : "WEBINAR"
+   },
+   {
+      "key" : "WEBLOG",
+      "self" : "http://localhost:9090/rest/api/2/project/126217",
+      "name" : "Weblog[63]",
+      "avatarUrls" : {
+         "24x24" : "http://localhost:9090//secure/projectavatar?size=small&pid=126217&avatarId=126217",
+         "48x48" : "http://localhost:9090//secure/projectavatar?pid=126217&avatarId=126217",
+         "32x32" : "http://localhost:9090//secure/projectavatar?size=medium&pid=126217&avatarId=126217",
+         "16x16" : "http://localhost:9090//secure/projectavatar?size=xsmall&pid=126217&avatarId=126217"
+      },
+      "projectCategory" : {
+         "id" : "100500",
+         "self" : "http://localhost:9090/rest/api/2/projectCategory/100500",
+         "name" : "LIST OF BUZZWORDS",
+         "description" : "https://en.wikipedia.org/wiki/List_of_buzzwords"
+      },
+      "id" : "126217",
+      "expand" : "description,lead,url,projectKeys",
+      "projectTypeKey" : "software"
+   },
+   {
+      "self" : "http://localhost:9090/rest/api/2/project/126649",
+      "key" : "WEBSERVICES",
+      "projectCategory" : {
+         "description" : "https://en.wikipedia.org/wiki/List_of_buzzwords",
+         "name" : "LIST OF BUZZWORDS",
+         "self" : "http://localhost:9090/rest/api/2/projectCategory/100500",
+         "id" : "100500"
+      },
+      "projectTypeKey" : "software",
+      "id" : "126649",
+      "expand" : "description,lead,url,projectKeys",
+      "avatarUrls" : {
+         "32x32" : "http://localhost:9090//secure/projectavatar?size=medium&pid=126649&avatarId=126649",
+         "16x16" : "http://localhost:9090//secure/projectavatar?size=xsmall&pid=126649&avatarId=126649",
+         "48x48" : "http://localhost:9090//secure/projectavatar?pid=126649&avatarId=126649",
+         "24x24" : "http://localhost:9090//secure/projectavatar?size=small&pid=126649&avatarId=126649"
+      },
+      "name" : "Web services[68]"
+   },
+   {
+      "key" : "WIKIALITY",
+      "self" : "http://localhost:9090/rest/api/2/project/127071",
+      "name" : "Wikiality[99]",
+      "avatarUrls" : {
+         "24x24" : "http://localhost:9090//secure/projectavatar?size=small&pid=127071&avatarId=127071",
+         "48x48" : "http://localhost:9090//secure/projectavatar?pid=127071&avatarId=127071",
+         "16x16" : "http://localhost:9090//secure/projectavatar?size=xsmall&pid=127071&avatarId=127071",
+         "32x32" : "http://localhost:9090//secure/projectavatar?size=medium&pid=127071&avatarId=127071"
+      },
+      "id" : "127071",
+      "expand" : "description,lead,url,projectKeys",
+      "projectTypeKey" : "software",
+      "projectCategory" : {
+         "id" : "100500",
+         "self" : "http://localhost:9090/rest/api/2/projectCategory/100500",
+         "description" : "https://en.wikipedia.org/wiki/List_of_buzzwords",
+         "name" : "LIST OF BUZZWORDS"
+      }
+   },
+   {
+      "self" : "http://localhost:9090/rest/api/2/project/127335",
+      "key" : "WORKFLOW",
+      "projectCategory" : {
+         "self" : "http://localhost:9090/rest/api/2/projectCategory/100500",
+         "name" : "LIST OF BUZZWORDS",
+         "description" : "https://en.wikipedia.org/wiki/List_of_buzzwords",
+         "id" : "100500"
+      },
+      "expand" : "description,lead,url,projectKeys",
+      "projectTypeKey" : "software",
+      "id" : "127335",
+      "avatarUrls" : {
+         "48x48" : "http://localhost:9090//secure/projectavatar?pid=127335&avatarId=127335",
+         "24x24" : "http://localhost:9090//secure/projectavatar?size=small&pid=127335&avatarId=127335",
+         "16x16" : "http://localhost:9090//secure/projectavatar?size=xsmall&pid=127335&avatarId=127335",
+         "32x32" : "http://localhost:9090//secure/projectavatar?size=medium&pid=127335&avatarId=127335"
+      },
+      "name" : "Workflow[6]"
+   }
+]

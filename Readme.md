@@ -1,6 +1,8 @@
 Jira Link Expander (chrome webextension)
 =======================================
 
+[![Build Status](https://travis-ci.org/pru-mike/chrome-jira-link-expander.svg?branch=master)](https://travis-ci.org/pru-mike/chrome-jira-link-expander)
+
 What this project about?
 ------------------------
 
